@@ -1,0 +1,1033 @@
+[
+    {
+        "id": 1,
+        "name": "welcome",
+        "member": 0,
+        "maxUsers": 500,
+        "game": 0,
+        "spawn": 1,
+        "outside": true
+    },
+    {
+        "id": 2,
+        "name": "tourhq",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 3,
+        "name": "lookout",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 4,
+        "name": "icepond",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 100,
+        "name": "town",
+        "member": 0,
+        "maxUsers": 400,
+        "game": 0,
+        "spawn": 1,
+        "outside": true
+    },
+    {
+        "id": 110,
+        "name": "coffee",
+        "member": 0,
+        "maxUsers": 120,
+        "game": 0,
+        "spawn": 0,
+        "stampGroup": 12
+    },
+    {
+        "id": 111,
+        "name": "book",
+        "member": 0,
+        "maxUsers": 200,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 120,
+        "name": "dance",
+        "member": 0,
+        "maxUsers": 300,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 121,
+        "name": "lounge",
+        "member": 0,
+        "maxUsers": 99999,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 122,
+        "name": "eco",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 130,
+        "name": "shop",
+        "member": 0,
+        "maxUsers": 450,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 131,
+        "name": "shopoffice",
+        "member": 0,
+        "maxUsers": 450,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 140,
+        "name": "coffee_solo",
+        "member": 0,
+        "maxUsers": 450,
+        "game": 0,
+        "solo": 1,
+        "spawn": 0
+    },
+    {
+        "id": 141,
+        "name": "pizza_solo",
+        "member": 0,
+        "maxUsers": 450,
+        "game": 0,
+        "solo": 1,
+        "spawn": 0
+    },
+    {
+        "id": 200,
+        "name": "village",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 210,
+        "name": "sportshop",
+        "member": 0,
+        "maxUsers": 200,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 220,
+        "name": "lodge",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 221,
+        "name": "attic",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 230,
+        "name": "mtn",
+        "member": 0,
+        "maxUsers": 400,
+        "game": 0,
+        "spawn": 0,
+        "outside": true,
+        "gg": 1
+    },
+    {
+        "id": 300,
+        "name": "plaza",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 310,
+        "name": "pet",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 318,
+        "name": "hideout",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 319,
+        "name": "courtyard",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 320,
+        "name": "dojo",
+        "member": 0,
+        "maxUsers": 99999,
+        "game": 0,
+        "spawn": 0,
+        "gg": 1
+    },
+    {
+        "id": 330,
+        "name": "pizza",
+        "member": 0,
+        "maxUsers": 120,
+        "game": 0,
+        "spawn": 0,
+        "stampGroup": 12
+    },
+    {
+        "id": 340,
+        "name": "stage",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 341,
+        "name": "stageunderground",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 400,
+        "name": "beach",
+        "member": 0,
+        "maxUsers": 400,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 410,
+        "name": "lighthouse",
+        "member": 0,
+        "maxUsers": 300,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 411,
+        "name": "beacon",
+        "member": 0,
+        "maxUsers": 400,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+
+    {
+        "id": 420,
+        "name": "ship",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 421,
+        "name": "shiphold",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 422,
+        "name": "shipquarters",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "stampGroup": 56
+    },
+    {
+        "id": 423,
+        "name": "shipnest",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 800,
+        "name": "dock",
+        "member": 0,
+        "maxUsers": 300,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 801,
+        "name": "forts",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 802,
+        "name": "rink",
+        "member": 0,
+        "maxUsers": 700,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 803,
+        "name": "hq",
+        "member": 0,
+        "maxUsers": 500,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 804,
+        "name": "boiler",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 805,
+        "name": "berg",
+        "member": 0,
+        "maxUsers": 100,
+        "game": 0,
+        "spawn": 0,
+        "outside": true,
+        "stampGroup": 12
+    },
+    {
+        "id": 806,
+        "name": "cave",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 807,
+        "name": "shack",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 808,
+        "name": "mine",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 809,
+        "name": "forest",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 810,
+        "name": "cove",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0,
+        "outside": true
+    },
+    {
+        "id": 8100,
+        "name": "darkcave",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 811,
+        "name": "boxdimension",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 812,
+        "name": "dojofire",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 813,
+        "name": "cavemine",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 814,
+        "name": "hiddenlake",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 815,
+        "name": "underwater",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 816,
+        "name": "dojowater",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 821,
+        "name": "oldboiler",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 830,
+        "name": "partyTower",
+        "member": 0,
+        "maxUsers": 1500,
+        "game": 0,
+        "spawn": 0,
+        "solo": 1
+    },
+    {
+        "id": 831,
+        "name": "partyTowerJoiner",
+        "member": 0,
+        "maxUsers": 1500,
+        "game": 0,
+        "spawn": 0,
+        "solo": 1
+    },
+    {
+        "id": 832,
+        "name": "partyTowerBreak",
+        "member": 0,
+        "maxUsers": 1500,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 833,
+        "name": "partyTowerTrivia",
+        "member": 0,
+        "maxUsers": 1500,
+        "game": 0,
+        "spawn": 0,
+        "solo": 1
+    },
+    {
+        "id": 834,
+        "name": "partyTowerBattle",
+        "member": 0,
+        "maxUsers": 1500,
+        "game": 0,
+        "spawn": 0,
+        "solo": 1
+    },
+    {
+        "id": 851,
+        "name": "party1",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 852,
+        "name": "party2",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 853,
+        "name": "party3",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 854,
+        "name": "party4",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 855,
+        "name": "party5",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 856,
+        "name": "party6",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 857,
+        "name": "party7",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 858,
+        "name": "party8",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 859,
+        "name": "party9",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 860,
+        "name": "party10",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 861,
+        "name": "party11",
+        "member": 0,
+        "maxUsers": 150,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 862,
+        "name": "party12",
+        "member": 0,
+        "maxUsers": 500,
+        "game": 0,
+        "spawn": 0,
+        "solo": 1
+    },
+    {
+        "id": 863,
+        "name": "party13",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 864,
+        "name": "party14",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 865,
+        "name": "party15",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 866,
+        "name": "party16",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 867,
+        "name": "party17",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 868,
+        "name": "party18",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 869,
+        "name": "party19",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 870,
+        "name": "party20",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 871,
+        "name": "party21",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 872,
+        "name": "party22",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 873,
+        "name": "party23",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 874,
+        "name": "party24",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 875,
+        "name": "party25",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 876,
+        "name": "party26",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 877,
+        "name": "party27",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 899,
+        "name": "party99",
+        "member": 0,
+        "maxUsers": 80,
+        "game": 0,
+        "spawn": 0
+    },
+    {
+        "id": 900,
+        "name": "astro",
+        "member": 0,
+        "game": 1,
+        "spawn": 0,
+        "stampGroup": 14
+    },
+    {
+        "id": 901,
+        "name": "beans",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 902,
+        "name": "roundup",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 903,
+        "name": "hydro",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 904,
+        "name": "fish",
+        "member": 0,
+        "game": 1,
+        "spawn": 0,
+        "stampGroup": 52
+    },
+    {
+        "id": 905,
+        "name": "cart",
+        "member": 0,
+        "game": 1,
+        "spawn": 0,
+        "stampGroup": 28
+    },
+    {
+        "id": 909,
+        "name": "thinice",
+        "member": 0,
+        "game": 1,
+        "spawn": 0,
+        "stampGroup": 16
+    },
+    {
+        "id": 910,
+        "name": "pizzatron",
+        "member": 0,
+        "game": 1,
+        "spawn": 0,
+        "stampGroup": 54
+    },
+    {
+        "id": 912,
+        "name": "waves",
+        "member": 0,
+        "game": 1,
+        "spawn": 0,
+        "stampGroup": 15
+    },
+    {
+        "id": 916,
+        "name": "sub",
+        "member": 0,
+        "game": 1,
+        "spawn": 0,
+        "stampGroup": 13
+    },
+    {
+        "id": 917,
+        "name": "book1",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 918,
+        "name": "book2",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 919,
+        "name": "book3",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 920,
+        "name": "feedapuffle",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 921,
+        "name": "memorycardgame",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 922,
+        "name": "pufflepaddle",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 923,
+        "name": "puffleshuffle",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 924,
+        "name": "pufflesoaker",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 925,
+        "name": "ringthebell",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 926,
+        "name": "jetpack",
+        "member": 0,
+        "game": 1,
+        "spawn": 0,
+        "stampGroup": 11
+    },
+    {
+        "id": 927,
+        "name": "rescue",
+        "member": 0,
+        "game": 1,
+        "spawn": 0,
+        "stampGroup": 19
+    },
+    {
+        "id": 928,
+        "name": "spinthewheel",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 929,
+        "name": "balloonpop",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 930,
+        "name": "dj3k",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 931,
+        "name": "quests/q1",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 932,
+        "name": "quests/q2",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 933,
+        "name": "quests/q3",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 934,
+        "name": "quests/q4",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 935,
+        "name": "quests/q5",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 936,
+        "name": "quests/q6",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 937,
+        "name": "quests/q7",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 938,
+        "name": "quests/q8",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 939,
+        "name": "quests/q9",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 940,
+        "name": "quests/q10",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 941,
+        "name": "quests/q11",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 942,
+        "name": "fluffy",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 943,
+        "name": "pizzaoven",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 945,
+        "name": "thinastro",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 952,
+        "name": "dancing",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 958,
+        "name": "scornbattle",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 959,
+        "name": "smoothie",
+        "member": 0,
+        "game": 1,
+        "spawn": 0,
+        "stampGroup": 58
+    },
+    {
+        "id": 998,
+        "name": "card",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    },
+    {
+        "id": 999,
+        "name": "sled",
+        "member": 0,
+        "game": 1,
+        "spawn": 0
+    }
+]

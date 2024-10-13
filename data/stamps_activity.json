@@ -1,0 +1,252 @@
+{
+    "clientSide": [13, 10, 9, 24, 362, 184, 193, 497, 498, 600, 601, 602],
+    "partyRooms": [
+        "beach", "beacon", "dock", "village", "mtn", "icepond", "town", "coffee", "dance", "forts", "rink", "plaza", "pizza", "forest", "cove", "berg", "party1", "party2", "party3"
+    ],
+    "constructionEnabled": false,
+    "constructionRooms": ["beach", "dock", "lighthouse"],
+    "individualStamps": {
+        "600": {
+            "conditions": {
+                "owns": 1734
+            }
+        },
+        "601": {
+            "conditions": {
+                "owns": 6209
+            }
+        },
+        "602": {
+            "conditions": {
+                "owns": 2138
+            }
+        },
+        "700": {
+            "conditions": {
+                "owns": 428
+            }
+        },
+        "14": {
+            "conditions": {
+                "age": 183
+            }
+        },
+        "20": {
+            "conditions": {
+                "age": 365
+            }
+        },
+        "189": {
+            "conditions": {
+                "inConstructionRoom": true,
+                "frame": 26,
+                "wearing": {
+                    "head": [403, 429, 674, 1133, 1765, 10403, 10429, 11133, 35033, 342, 380121, 380258, 380410],
+                    "face": [0,380314],
+                    "neck": 0,
+                    "body": [0,770],
+                    "hand": 0,
+                    "feet": 0
+                }
+            }
+        },
+        "12": {
+            "conditions": [{
+                "position": [
+                    {
+                        "room": "cove",
+                        "pos1": [539, 623],
+                        "pos2": [1520, 960]
+                    },
+                    {
+                        "room": "hiddenlake",
+                        "pos1": [389, 414],
+                        "pos2": [1476, 870]
+                    },
+                    {
+                        "room": "cave",
+                        "pos1": [348, 590],
+                        "pos2": [1285, 822]
+                    }
+                ],
+                "frame": 26,
+                "wearing": {
+                    "head": 0,
+                    "face": 0,
+                    "neck": 0,
+                    "body": [274, 292, 4257, 380039, 380303],
+                    "hand": [0, 345, 325],
+                    "feet": 0
+                }
+            }]
+        },
+        "11": {
+            "conditions": {
+                "position": {
+                    "room": "mtn"
+                },
+                "frame": 25,
+                "wearing": {
+                    "head": 0,
+                    "face": 0,
+                    "neck": [195, 10195],
+                    "body": 0,
+                    "hand": 0,
+                    "feet": 0
+                }
+            }
+        },
+        "18": {
+            "conditions": {
+                "position": {
+                    "room": "coffee"
+                },
+                "frame": 26,
+                "emote": 13,
+                "wearing": {
+                    "head": 0,
+                    "face": 0,
+                    "neck": 0,
+                    "body": [262, 10262],
+                    "hand": 0,
+                    "feet": 0
+                }
+            }
+        },
+        "19": {
+            "conditions": {
+                "position": {
+                    "room": "pizza"
+                },
+                "frame": 26,
+                "emote": 24,
+                "wearing": {
+                    "head": [424, 1024, 380166, 1766],
+                    "face": 0,
+                    "neck": 0,
+                    "body": [240, 263, 10263, 380167, 24034],
+                    "hand": 0,
+                    "feet": 0
+                }
+            }
+        },
+        "360": {
+            "conditions": [
+                { "wearing": { "head": [668,10668], "body": [794,10794] }, "partyEnabled": 2},
+                { "wearing": { "head": 1052, "body": 4078, "hand": 5028 }, "partyEnabled": 2},
+                { "wearing": { "head": [1146,11146], "body": [4219,14219], "hand": 5058 }, "partyEnabled": 2},
+                { "wearing": { "head": 1253, "body": 4362, "hand": [5100,5147] }, "partyEnabled": 2},
+                { "wearing": { "head": 1398, "body": 4578, "hand": 5147, "feet": 6116 }, "partyEnabled": 2},
+                { "wearing": { "head": 1688, "body": 4943 }, "partyEnabled": 2},
+                { "wearing": { "head": 1693, "body": 4947, "hand": 5360, "feet": 6196 }, "partyEnabled": 2}
+            ]
+        },
+        "710": {
+            "conditions": [
+                {
+                    "position": { "room": "pizza" },
+                    "wearing": { "body": [262, 10262, 4045, 250, 4472, 380326, 4410] }
+                },
+                {
+                    "position": { "room": "coffee" },
+                    "wearing": { "body": [240, 263, 10263, 380167, 24034, 4045, 250, 4472, 380326, 4410] }
+                }
+            ]
+        }
+    },
+    "groupStamps": {
+        "16": {
+            "penguins": 10,
+            "conditions": {
+                "position": {
+                    "room": "dance"
+                },
+                "frame": 26
+            }
+        },
+        "26": {
+            "penguins": 30,
+            "conditions": {
+                "position": {
+                    "room": "berg"
+                },
+                "frame": 26,
+                "wearing": {
+                    "head": [403, 429, 674, 1133, 1765, 10403, 10429, 11133, 35033, 342, 380121, 380258, 380410],
+                    "face": 0,
+                    "neck": 0,
+                    "body": [0,770],
+                    "hand": 0,
+                    "feet": 0
+                }
+            }
+        },
+        "22": {
+            "penguins": 25,
+            "conditions": {
+                "position": {
+                    "room": "dance"
+                },
+                "frame": 26
+            }
+        },
+        "364": {
+            "penguins": 10,
+            "conditions": {
+                "wearing": {
+                    "body": [4147, 14147, 24238, 380252]
+                }
+            }
+        },
+        "29": {
+            "penguins": 5,
+            "conditions": {
+                "wearing": {
+                    "body": [278, 10278, 4143, 14143, 277, 10277, 4204, 14204, 4476, 4478, 4474, 4480]
+                }
+            },
+            "matching": "body"
+        },
+        "25": {
+            "penguins": 5,
+            "conditions": {
+                "wearing": {
+                    "body": [4349, 778, 10778, 4091, 14091, 776, 4350, 4088, 4348, 775, 10775, 4347, 4346]
+                }
+            },
+            "matching": "body"
+        },
+        "27": {
+            "penguins": 5,
+            "conditions": {
+                "position": {
+                    "room": "forts"
+                },
+                "thrownSnowball": true
+            },
+            "matching": "color"
+        },
+        "182": {
+            "penguins": 10,
+            "conditions": {
+                "lessTempEmote": 2
+            }
+        },
+        "496": {
+            "penguins": 5,
+            "conditions": [
+                { "wearing": { "head": 380386, "body": 380387 } },
+                { "wearing": { "head": 380389, "body": 380390 } },
+                { "wearing": { "head": 380392, "body": 380393 } },
+                { "wearing": { "head": 380396, "body": 380397 } },
+                { "wearing": { "head": 380400, "body": 380401 } },
+                { "wearing": { "head": 380403, "body": 380404 } },
+                { "wearing": { "head": 380406, "body": 380407 } }
+            ],
+            "matchingAll": [
+                "head",
+                "body"
+            ]
+        }
+    }
+}

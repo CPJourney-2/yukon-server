@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "isolatedModules": true,
+      "strict": true,
+      "resolveJsonModule": true,
+      "esModuleInterop": true,
+      "target": "ESNext",
+      "moduleResolution": "node"
+    },
+    "include": [
+      "src/**/*.ts",
+      "tests/**/*.ts"
+    ]
+  }

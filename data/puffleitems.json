@@ -1,0 +1,22 @@
+{
+    "1": {
+        "name": "Gum",
+        "cost": 5,
+        "active": 1
+    },
+    "2": {
+        "name": "Cookie",
+        "cost": 5,
+        "active": 1
+    },
+    "3": {
+        "name": "Food",
+        "cost": 10,
+        "active": 1
+    },
+    "4": {
+        "name": "Bath",
+        "cost": 5,
+        "active": 1
+    }
+}

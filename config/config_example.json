@@ -1,0 +1,70 @@
+{
+  "crypto": {
+    "secret": "",
+    "rounds": 10,
+    "loginKeyExpiry": 300
+  },
+  "database": {
+    "host": "localhost",
+    "user": "user",
+    "password": "password",
+    "database": "yukon",
+    "dialect": "mysql",
+    "debug": false,
+    "logQueryParameters": false
+  },
+  "socketio": {
+    "https": false,
+    "ssl": {
+      "cert": "/path/to/cert.crt",
+      "ca": "/path/to/ca.ca-bundle",
+      "key": "/path/to/key.key"
+    }
+  },
+  "cors": {
+    "origin": "http://localhost:8080"
+  },
+  "rateLimit": {
+    "enabled": true,
+    "addressConnectsPerSecond": 5,
+    "addressEventsPerSecond": 50,
+    "userEventsPerSecond": 10,
+    "ipAddressHeader": false
+  },
+  "worlds": {
+    "Login": {
+      "host": "localhost",
+      "port": 6111
+    },
+    "Blizzard": {
+      "host": "localhost",
+      "port": 6112,
+      "maxUsers": 300
+    },
+    "Sleet": {
+      "host": "localhost",
+      "port": 6113,
+      "maxUsers": 300,
+      "safeChat": false
+    }
+  },
+  "game": {
+    "preferredSpawn": 0,
+    "iglooIdOffset": 2000
+  },
+  "discord": {
+    "token": ""
+  },
+  "chat": {
+    "token": ""
+  },
+  "elasticsearch": {
+    "enabled": false,
+    "production": false,
+    "server_name": "dev",
+    "url": "https://localhost:9200",
+    "api_key_id": "",
+    "api_key": "",
+    "ca": "./cert/ca.crt"
+  }
+}

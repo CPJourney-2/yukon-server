@@ -1,0 +1,161 @@
+{
+  "1": {
+    "name": "Default Location",
+    "cost": 0,
+    "active": 1,
+    "store": 0,
+    "seasonal": 0
+  },
+  "2": {
+    "name": "Beach",
+    "cost": 2800,
+    "active": 0,
+    "store": 1,
+    "seasonal": 0
+  },
+  "3": {
+    "name": "Forest",
+    "cost": 2700,
+    "active": 0,
+    "store": 1,
+    "seasonal": 0
+  },
+  "4": {
+    "name": "Mountain",
+    "cost": 2800,
+    "active": 1,
+    "store": 1,
+    "seasonal": 0
+  },
+  "5": {
+    "name": "Age Of Dinosaurs",
+    "cost": 0,
+    "active": 0,
+    "store": 0,
+    "seasonal": 1
+  },
+  "6": {
+    "name": "Distant Planet",
+    "cost": 1800,
+    "active": 0,
+    "store": 0,
+    "seasonal": 1
+  },
+  "7": {
+    "name": "Soccer Pitch",
+    "cost": 1800,
+    "active": 0,
+    "store": 0,
+    "seasonal": 1
+  },
+  "8": {
+    "name": "Undersea",
+    "cost": 1800,
+    "active": 0,
+    "store": 0,
+    "seasonal": 1
+  },
+  "9": {
+    "name": "Icy Wonderland",
+    "cost": 0,
+    "active": 0,
+    "store": 0,
+    "seasonal": 1
+  },
+  "11": {
+    "name": "Default Location (Night)",
+    "cost": 0,
+    "active": 1,
+    "store": 1,
+    "seasonal": 0,
+    "timeAdded": 1709920800
+  },
+  "12": {
+    "name": "Beach (Night)",
+    "cost": 2800,
+    "active": 1,
+    "store": 1,
+    "seasonal": 0,
+    "timeAdded": 1709920800
+  },
+  "13": {
+    "name": "Forest (Night)",
+    "cost": 2700,
+    "active": 1,
+    "store": 1,
+    "seasonal": 0,
+    "timeAdded": 1709920800
+  },
+  "14": {
+    "name": "Mountain (Night)",
+    "cost": 2800,
+    "active": 1,
+    "store": 1,
+    "seasonal": 0,
+    "timeAdded": 1709920800
+  },
+  "15": {
+    "name": "Glacial Box Realm",
+    "cost": 2800,
+    "active": 1,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1711994400
+  },
+  "16": {
+    "name": "Top O' the Morning",
+    "cost": 2800,
+    "active": 1,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709920800
+  },
+  "17": {
+    "name": "Top O' the Evening",
+    "cost": 2800,
+    "active": 1,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709920800
+  },
+  "18": {
+    "name": "Default Location (Sunset)",
+    "cost": 0,
+    "active": 1,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "19": {
+    "name": "Beach (Sunset)",
+    "cost": 2800,
+    "active": 1,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "20": {
+    "name": "Forest (Sunset)",
+    "cost": 2800,
+    "active": 1,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "21": {
+    "name": "Mountain (Sunset)",
+    "cost": 2800,
+    "active": 1,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "22": {
+    "name": "Corn Maze",
+    "cost": 0,
+    "active": 0,
+    "store": 0,
+    "seasonal": 0,
+    "island_available": 0
+  }
+}

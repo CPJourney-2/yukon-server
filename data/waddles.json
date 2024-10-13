@@ -1,0 +1,82 @@
+[
+    {
+        "id": 100,
+        "roomId": 230,
+        "seats": 4,
+        "game": "sled"
+    },
+    {
+        "id": 101,
+        "roomId": 230,
+        "seats": 3,
+        "game": "sled"
+    },
+    {
+        "id": 102,
+        "roomId": 230,
+        "seats": 2,
+        "game": "sled"
+    },
+    {
+        "id": 103,
+        "roomId": 230,
+        "seats": 2,
+        "game": "sled"
+    },
+    {
+        "id": 200,
+        "roomId": 320,
+        "seats": 2,
+        "game": "card",
+        "type": "cpj"
+    },
+    {
+        "id": 201,
+        "roomId": 320,
+        "seats": 2,
+        "game": "card",
+        "type": "cpj"
+    },
+    {
+        "id": 202,
+        "roomId": 320,
+        "seats": 2,
+        "game": "card",
+        "type": "cpj"
+    },
+    {
+        "id": 203,
+        "roomId": 320,
+        "seats": 2,
+        "game": "card",
+        "type": "cpj"
+    },
+    {
+        "id": 204,
+        "roomId": 318,
+        "seats": 2,
+        "game": "card",
+        "type": "cpj"
+    },
+    {
+        "id": 205,
+        "roomId": 318,
+        "seats": 2,
+        "game": "card",
+        "type": "cpj"
+    },
+    {
+        "id": 206,
+        "roomId": 318,
+        "seats": 2,
+        "game": "card",
+        "type": "cpj"
+    },
+    {
+        "id": 207,
+        "roomId": 318,
+        "seats": 2,
+        "game": "card",
+        "type": "cpj"
+    }
+]

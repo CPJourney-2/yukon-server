@@ -1,0 +1,465 @@
+{
+    "1": {
+      "partyId": 1,
+      "description": "Fall from the hole at the Book Room",
+      "difficulty": "easy",
+      "community": false
+    },
+    "2": {
+      "partyId": 1,
+      "description": "Water the Flowers at the Mine Shack",
+      "difficulty": "easy",
+      "community": false
+    },
+    "3": {
+      "partyId": 1,
+      "description": "Score a Goal at the Ice Rink",
+      "difficulty": "easy",
+      "community": false
+    },
+    "4": {
+      "partyId": 1,
+      "description": "Get your Lofi On",
+      "difficulty": "easy",
+      "community": false
+    },
+    "5": {
+      "partyId": 1,
+      "description": "Find the Party Pin",
+      "difficulty": "easy",
+      "community": false
+    },
+    "6": {
+      "partyId": 1,
+      "description": "Tell a Joke on stage in a Silly Place",
+      "difficulty": "easy",
+      "community": false
+    },
+    "7": {
+      "partyId": 1,
+      "description": "Drill the Ice Pond with 10 Penguins",
+      "difficulty": "easy",
+      "community": true
+    },
+    "8": {
+      "partyId": 1,
+      "description": "Play Thinicetrobarrier",
+      "difficulty": "easy",
+      "community": false
+    },
+    "9": {
+      "partyId": 1,
+      "description": "Paint 3 Masterpieces at the Dock",
+      "difficulty": "medium",
+      "community": false
+    },
+    "10": {
+      "partyId": 1,
+      "description": "Trigger an Explosion at the Snow Forts",
+      "difficulty": "medium",
+      "community": false
+    },
+    "11": {
+      "partyId": 1,
+      "description": "Find the Big Postcard",
+      "difficulty": "medium",
+      "community": false
+    },
+    "12": {
+      "partyId": 1,
+      "description": "See all the Jokes at the Cave Mine",
+      "difficulty": "medium",
+      "community": false
+    },
+    "13": {
+      "partyId": 1,
+      "description": "Take a Picture with Keith",
+      "difficulty": "medium",
+      "community": false
+    },
+    "14": {
+      "partyId": 1,
+      "description": "Popcorn Emote with 20 Penguins at the Sports Shop",
+      "difficulty": "medium",
+      "community": true
+    },
+    "15": {
+      "partyId": 1,
+      "description": "Watch the Moon Rise in a Desert Dimension",
+      "difficulty": "medium",
+      "community": false
+    },
+    "16": {
+      "partyId": 1,
+      "description": "Enter every dimension in the box dimension",
+      "difficulty": "medium",
+      "community": false
+    },
+    "17": {
+      "partyId": 1,
+      "description": "Dance with 30 Crabs at the Beach",
+      "difficulty": "hard",
+      "community": true
+    },
+    "18": {
+      "partyId": 1,
+      "description": "Use the Joystick Emote with 30 Penguins at Plaza",
+      "difficulty": "hard",
+      "community": true
+    },
+    "19": {
+      "partyId": 1,
+      "description": "Fly with 30 Penguins with Propeller Hats at the Cove",
+      "difficulty": "hard",
+      "community": true
+    },
+    "20": {
+      "partyId": 1,
+      "description": "Walk your Puffle with 20 Penguins at the Pet Shop",
+      "difficulty": "hard",
+      "community": true
+    },
+    "21": {
+      "partyId": 1,
+      "description": "Complete the box scavenger hunt",
+      "difficulty": "hard",
+      "community": false
+    },
+    "22": {
+      "partyId": 1,
+      "description": "Watch all of Steamboat Willie at the Cave",
+      "difficulty": "hard",
+      "community": false
+    },
+    "23": {
+      "partyId": 1,
+      "description": "Solve the Cream Soda Maze",
+      "difficulty": "extreme",
+      "community": false 
+    },
+    "24": {
+      "partyId": 1,
+      "description": "Become a Box with 40 Penguins at the Town",
+      "difficulty": "extreme",
+      "community": true 
+    },
+
+    "25": {
+      "partyId": 2,
+      "description": "Get lost in the maze of Ye Knight's Quest 1",
+      "difficulty": "easy"
+    },
+    "26": {
+      "partyId": 2,
+      "description": "Water all mushrooms at the Beach",
+      "difficulty": "easy"
+    },
+    "27": {
+      "partyId": 2,
+      "description": "Have a full tea party in the Lodge",
+      "difficulty": "easy",
+      "community": true
+    },
+    "28": {
+      "partyId": 2,
+      "description": "Transform into a Fairy",
+      "difficulty": "easy"
+    },
+    "29": {
+      "partyId": 2,
+      "description": "Toss a coin to your WitchBot",
+      "difficulty": "easy"
+    },
+    "30": {
+      "partyId": 2,
+      "description": "Have a feast with 10 Penguins in the Pizza Parlor",
+      "difficulty": "easy",
+      "community": true
+    },
+    "31": {
+      "partyId": 2,
+      "description": "Collect all coins from a big pile in the Infinite Tower Maze",
+      "difficulty": "easy"
+    },
+    "32": {
+      "partyId": 2,
+      "description": "Hit an enemy with the wrong attack in the Infinite Tower",
+      "difficulty": "easy"
+    },
+    "33": {
+      "partyId": 2,
+      "description": "Transform into a Dragon",
+      "difficulty": "medium"
+    },
+    "34": {
+      "partyId": 2,
+      "description": "Reignite an extinguished flame in Ye Knight's Quest 2",
+      "difficulty": "medium"
+    },
+    "35": {
+      "partyId": 2,
+      "description": "Experience a full Day Cycle in the Infinite Tower",
+      "difficulty": "medium"
+    },
+    "36": {
+      "partyId": 2,
+      "description": "Defeat 8 enemies in the Infinite Tower without being hit",
+      "difficulty": "hard"
+    },
+    "37": {
+      "partyId": 2,
+      "description": "Sit with 15 Penguins in a Break Room",
+      "difficulty": "hard",
+      "community": true
+    },
+    "38": {
+      "partyId": 2,
+      "description": "Practice magic with 20 Wizards in the Lighthouse",
+      "difficulty": "hard",
+      "community": true
+    },
+    "39": {
+      "partyId": 2,
+      "description": "Complete all Ye Knight's Quests and defeat Scorn",
+      "difficulty": "hard"
+    },
+    "40": {
+      "partyId": 2,
+      "description": "Reach Floor 150 in the Infinite Tower",
+      "difficulty": "hard"
+    },
+    "41": {
+      "partyId": 2,
+      "description": "Get 20 Questions right in a single Infinite Tower run",
+      "difficulty": "hard"
+    },
+    "42": {
+      "partyId": 2,
+      "description": "Escape the Infinite Tower with over 1000 coins",
+      "difficulty": "extreme"
+    },
+    "43": {
+      "partyId": 2,
+      "description": "Dance with 40 Penguins in the Knight Club",
+      "difficulty": "extreme",
+      "community": true
+    },
+    "44": {
+      "partyId": 2,
+      "description": "Climb 75 Floors in the Infinite Tower without failing",
+      "difficulty": "extreme"
+    },
+
+    "45": {
+      "partyId": 4,
+      "name": "\"Sing\"",
+      "description": "Use the Toot emote in front of the Beach microphone",
+      "difficulty": "easy"
+    },
+    "46": {
+      "partyId": 4,
+      "name": "You Spin Me Right Round",
+      "description": "Walk a circle around the vinyl in the Tour HQ",
+      "difficulty": "easy"
+    },
+    "47": {
+      "partyId": 4,
+      "name": "Please Clap",
+      "description": "Press the applause button while someone is performing",
+      "community": true,
+      "difficulty": "easy"
+    },
+    "48": {
+      "partyId": 4,
+      "name": "Study Break",
+      "description": "Sit with a book in the Lofi Lookout",
+      "difficulty": "easy"
+    },
+    "49": {
+      "partyId": 4,
+      "name": "Paparazzi",
+      "description": "Take a photo at any stage",
+      "difficulty": "easy"
+    },
+    "50": {
+      "partyId": 4,
+      "name": "Java Jam",
+      "description": "Enjoy the company of 5 Penguins at the Coffee Shop",
+      "community": true,
+      "difficulty": "medium"
+    },
+    "51": {
+      "partyId": 4,
+      "name": "Late Night Luau",
+      "description": "Have a Luau at the Cove with 10 Penguins",
+      "community": true,
+      "difficulty": "medium"
+    },
+    "52": {
+      "partyId": 4,
+      "name": "Simon Said",
+      "description": "Complete 10 rounds of Simon Says in the Mine",
+      "difficulty": "medium"
+    },
+    "53": {
+      "partyId": 4,
+      "name": "Rock Star",
+      "description": "Play an instrument at every stage on the island",
+      "difficulty": "medium"
+    },
+    "54": {
+      "partyId": 4,
+      "name": "Music Maker",
+      "description": "Have all 4 instruments playing at once in Music Maker",
+      "difficulty": "medium",
+      "community": true
+    },
+    "55": {
+      "partyId": 4,
+      "name": "Beachside Interview",
+      "description": "Conduct an interview at the Beach",
+      "difficulty": "medium",
+      "community": true
+    },
+    "56": {
+      "partyId": 4,
+      "name": "Flared Up",
+      "description": "Set off the fireworks in the Stadium",
+      "difficulty": "medium",
+      "community": true
+    },
+    "57": {
+      "partyId": 4,
+      "name": "Superfan",
+      "description": "Watch a live concert from any performer",
+      "difficulty": "hard"
+    },
+    "58": {
+      "partyId": 4,
+      "name": "Genre Appreciation",
+      "description": "Dance in a Genre Room with 15 Penguins",
+      "community": true,
+      "difficulty": "hard"
+    },
+    "59": {
+      "partyId": 4,
+      "name": "All-Access VIP",
+      "description": "Hang out Backstage with 20 Penguins",
+      "difficulty": "hard",
+      "community": true
+    },
+    "60": {
+      "partyId": 4,
+      "name": "Rooftop Rave",
+      "description": "Dance with 30 Penguins on the Night Club Rooftop",
+      "community": true,
+      "difficulty": "extreme"
+    },
+    "61": {
+      "partyId": 4,
+      "name": "Glowtop Rock",
+      "description": "Find and collect all hidden glowsticks",
+      "difficulty": "extreme"
+    },
+
+    "62": {
+      "partyId": 7,
+      "name": "Ticker Collector",
+      "description": "Earn 300 tickets in one login session",
+      "difficulty": "easy"
+    },
+    "63": {
+      "partyId": 7,
+      "name": "Photo with Rockhopper",
+      "description": "Step into the Rockhopper cutout",
+      "difficulty": "easy"
+    },
+    "64": {
+      "partyId": 7,
+      "name": "Bumper Buddies",
+      "description": "Play Bumper Cars with 15 penguins at the Stadium",
+      "difficulty": "easy",
+      "community": true
+    },
+    "65": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Ride one full rotation on the Wagon Wheel",
+      "difficulty": "easy"
+    },
+    "66": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Take a ride on the Space Squid coaster",
+      "difficulty": "easy"
+    },
+    "67": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Get a Free Hug at the Lookout",
+      "difficulty": "easy"
+    },
+    "68": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Play every single mini-game in the Fair",
+      "difficulty": "medium"
+    },
+    "69": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Score at least 500 in Puffle Soaker",
+      "difficulty": "medium"
+    },
+    "70": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Do a food emote at every food stand in the Fair",
+      "difficulty": "medium"
+    },
+    "71": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Take the Island Rollercoaster across the island",
+      "difficulty": "medium"
+    },
+    "72": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Juggle with 30 clowns",
+      "difficulty": "hard",
+      "community": true
+    },
+    "73": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Dress as a farm animal with 30 penguins at the Beach",
+      "difficulty": "hard",
+      "community": true
+    },
+    "74": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Earn 1000 tickets in one login session",
+      "difficulty": "hard"
+    },
+    "75": {
+      "partyId": 7,
+      "name": "TBD",
+      "description": "Beat all events in Medieval Monsters",
+      "difficulty": "hard"
+    },
+    "76": {
+      "partyId": 7,
+      "name": "Overcrowded",
+      "description": "Fill the Wagon Wheel with 40 penguins",
+      "difficulty": "extreme",
+      "community": true
+    },
+    "77": {
+      "partyId": 7,
+      "name": "Porple Poofle",
+      "description": "Feed a purple puffle in Feed-A-Puffle",
+      "difficulty": "extreme"
+    }
+  }

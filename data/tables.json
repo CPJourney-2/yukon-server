@@ -1,0 +1,107 @@
+[
+    {
+        "id": 100,
+        "roomId": 111,
+        "game": "mancala"
+    },
+    {
+        "id": 101,
+        "roomId": 111,
+        "game": "mancala"
+    },
+    {
+        "id": 102,
+        "roomId": 111,
+        "game": "mancala"
+    },
+    {
+        "id": 103,
+        "roomId": 111,
+        "game": "mancala"
+    },
+    {
+        "id": 104,
+        "roomId": 111,
+        "game": "mancala"
+    },
+    {
+        "id": 200,
+        "roomId": 221,
+        "game": "four"
+    },
+    {
+        "id": 201,
+        "roomId": 221,
+        "game": "four"
+    },
+    {
+        "id": 202,
+        "roomId": 221,
+        "game": "four"
+    },
+    {
+        "id": 203,
+        "roomId": 221,
+        "game": "four"
+    },
+    {
+        "id": 204,
+        "roomId": 221,
+        "game": "four"
+    },
+    {
+        "id": 205,
+        "roomId": 220,
+        "game": "four"
+    },
+    {
+        "id": 206,
+        "roomId": 220,
+        "game": "four"
+    },
+    {
+        "id": 207,
+        "roomId": 220,
+        "game": "four"
+    },
+    {
+        "id": 300,
+        "roomId": 422,
+        "game": "treasurehunt"
+    },
+    {
+        "id": 301,
+        "roomId": 422,
+        "game": "treasurehunt"
+    },
+    {
+        "id": 302,
+        "roomId": 422,
+        "game": "treasurehunt"
+    },
+    {
+        "id": 303,
+        "roomId": 422,
+        "game": "treasurehunt"
+    },
+    {
+        "id": 304,
+        "roomId": 422,
+        "game": "treasurehunt"
+    },
+    {
+        "id": 305,
+        "roomId": 422,
+        "game": "treasurehunt"
+    },
+    {
+        "id": 306,
+        "roomId": 422,
+        "game": "treasurehunt"
+    },
+    {
+        "id": 307,
+        "roomId": 422,
+        "game": "treasurehunt"
+    }
+]

@@ -1,0 +1,45 @@
+{
+  "1": {
+    "name": "Experimental Penguin",
+    "item": 380291,
+    "active": 1
+  },
+  "2": {
+    "name": "Snowcat",
+    "item": 380006,
+    "active": 1
+  },
+  "3": {
+    "name": "Dragon",
+    "active": 0
+  },
+  "4": {
+    "name": "Snail",
+    "item": 13371337,
+    "active": 1
+  },
+  "5": {
+    "name": "Herbert",
+    "item": 4752,
+    "active": 1
+  },
+  "6": {
+    "name": "Fairy",
+    "active": 0
+  },
+  "7": {
+    "name": "Crewmate",
+    "item": 13371338,
+    "active": 1
+  },
+  "8": {
+    "name": "Merry Walrus",
+    "item": 1964,
+    "active": 1
+  },
+  "9": {
+    "name": "Klutzy",
+    "item": 380574,
+    "active": 1
+  }
+}

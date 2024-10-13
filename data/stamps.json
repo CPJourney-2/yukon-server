@@ -1,0 +1,3292 @@
+{
+    "11": {
+        "description": "All stamps for flying",
+        "display": "Jet Pack Adventure",
+        "group_id": 11,
+        "name": "Jet Pack Adventure",
+        "parent_group_id": 8,
+        "stamps": {
+            "202": {
+                "description": "Bring a green puffle into the game",
+                "is_member": 0,
+                "name": "Puffle Pilot ",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 202
+            },
+            "203": {
+                "description": "Your green puffle collects 200 coins",
+                "is_member": 1,
+                "name": "Puffle Bonus ",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 203
+            },
+            "204": {
+                "description": "Your green puffle collects 450 coins",
+                "is_member": 1,
+                "name": "Puffle Plus ",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 204
+            },
+            "205": {
+                "description": "Your green puffle gets a gas can when you run out of fuel",
+                "is_member": 0,
+                "name": "Puffle Boost",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 205
+            },
+            "37": {
+                "description": "Take off and return to the launch pad",
+                "is_member": 0,
+                "name": "Lift Off!",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 37
+            },
+            "38": {
+                "description": "Collect all fuel cans in Level 1",
+                "is_member": 0,
+                "name": "Fuel Rank 1",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 38
+            },
+            "39": {
+                "description": "Complete 5 levels",
+                "is_member": 1,
+                "name": "Jet Pack 5",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 39
+            },
+            "40": {
+                "description": "Crash land your jet pack at the Forest",
+                "is_member": 1,
+                "name": "Crash!",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 40
+            },
+            "41": {
+                "description": "Collect all fuel cans in Level 2",
+                "is_member": 1,
+                "name": "Fuel Rank 2",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 41
+            },
+            "42": {
+                "description": "Collect all fuel cans in Level 3",
+                "is_member": 1,
+                "name": "Fuel Rank 3",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 42
+            },
+            "43": {
+                "description": "Collect all fuel cans in Level 4",
+                "is_member": 1,
+                "name": "Fuel Rank 4",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 43
+            },
+            "44": {
+                "description": "Collect all fuel cans in Level 5",
+                "is_member": 1,
+                "name": "Fuel Rank 5",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 44
+            },
+            "45": {
+                "description": "Collect 2 x 1-ups",
+                "is_member": 1,
+                "name": "1-up Leader",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 45
+            },
+            "46": {
+                "description": "Collect 650 coins",
+                "is_member": 1,
+                "name": "Kerching!",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 46
+            },
+            "47": {
+                "description": "Collect all fuel cans in 1 game",
+                "is_member": 1,
+                "name": "Fuel Command",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 47
+            },
+            "48": {
+                "description": "Collect a fuel can while falling",
+                "is_member": 0,
+                "name": "Fuel Wings",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 48
+            },
+            "49": {
+                "description": "Find all 1-ups in one game",
+                "is_member": 1,
+                "name": "1-up Captain",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 49
+            },
+            "50": {
+                "description": "Complete the game without collecting coins",
+                "is_member": 1,
+                "name": "Ace Pilot ",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 50
+            }
+        }
+    },
+    "13": {
+        "description": "Aqua Grabber related stamps",
+        "display": "Aqua Grabber",
+        "group_id": 13,
+        "name": "Aqua Grabber",
+        "parent_group_id": 8,
+        "stamps": {
+            "72": {
+                "description": "Spot the squid",
+                "is_member": 0,
+                "name": "Squid Spotter",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 72
+            },
+            "73": {
+                "description": "Take your pink puffle for a deep-sea dive",
+                "is_member": 0,
+                "name": "Aqua Puffle",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 73
+            },
+            "74": {
+                "description": "Complete Soda Seas levels",
+                "is_member": 1,
+                "name": "Soda Success",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 74
+            },
+            "75": {
+                "description": "Complete Clam Waters levels",
+                "is_member": 0,
+                "name": "Clam Success",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 75
+            },
+            "76": {
+                "description": "Complete Soda Seas levels without losing a life",
+                "is_member": 1,
+                "name": "Soda Master",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 76
+            },
+            "77": {
+                "description": "Complete Clam Waters levels without losing a life",
+                "is_member": 0,
+                "name": "Clam Master",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 77
+            },
+            "78": {
+                "description": "Catch the yellow fish and return to your net",
+                "is_member": 1,
+                "name": "Get Fluffy",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 78
+            },
+            "79": {
+                "description": "Catch a worm and return to your net",
+                "is_member": 1,
+                "name": "Get the Worm",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 79
+            },
+            "80": {
+                "description": "Collect a pink puffle's bubble",
+                "is_member": 0,
+                "name": "Bubble Catch",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 80
+            },
+            "81": {
+                "description": "Collect all the white pearls in Clam Waters levels",
+                "is_member": 0,
+                "name": "Pearl Capture",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 81
+            },
+            "82": {
+                "description": "Discover secret treasure in Clam Waters levels",
+                "is_member": 0,
+                "name": "Clam Treasure",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 82
+            },
+            "83": {
+                "description": "Discover secret treasure in Soda Seas levels",
+                "is_member": 1,
+                "name": "Soda Treasure",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 83
+            },
+            "84": {
+                "description": "Complete the Clam Waters compressed air mode",
+                "is_member": 0,
+                "name": "Clam Compress",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 84
+            },
+            "85": {
+                "description": "Complete the Soda Seas compressed air mode",
+                "is_member": 1,
+                "name": "Soda Compress",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 85
+            },
+            "86": {
+                "description": "Master the Clam Waters compressed air mode without losing a life",
+                "is_member": 0,
+                "name": "Clam Pressure",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 86
+            },
+            "87": {
+                "description": "Master the Soda Seas compressed air mode without losing a life",
+                "is_member": 1,
+                "name": "Soda Pressure",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 87
+            },
+            "88": {
+                "description": "Complete the Clam Waters time trial",
+                "is_member": 0,
+                "name": "Clam Timer",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 88
+            },
+            "89": {
+                "description": "Complete the Soda Seas time trial",
+                "is_member": 1,
+                "name": "Soda Timer",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 89
+            },
+            "91": {
+                "description": "Capture all the crab's treasure",
+                "is_member": 1,
+                "name": "Crab's Treasure",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 91
+            },
+            "92": {
+                "description": "Capture the large red fish and return to the net",
+                "is_member": 1,
+                "name": "Mullet Capture",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 92
+            }
+        }
+    },
+    "14": {
+        "description": "Astro Barrier related stamps",
+        "display": "Astro Barrier",
+        "group_id": 14,
+        "name": "Astro Barrier",
+        "parent_group_id": 8,
+        "stamps": {
+            "51": {
+                "description": "Finish 5 levels",
+                "is_member": 0,
+                "name": "Astro5",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 51
+            },
+            "52": {
+                "description": "Finish 5 levels without missing a shot",
+                "is_member": 0,
+                "name": "Astro5 Max",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 52
+            },
+            "53": {
+                "description": "Complete levels 1-40",
+                "is_member": 1,
+                "name": "Astro40",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 53
+            },
+            "54": {
+                "description": "Use a Blaster to shoot a ship",
+                "is_member": 1,
+                "name": "Ship Blast",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 54
+            },
+            "55": {
+                "description": "Use a Blaster to shoot a 1-up",
+                "is_member": 1,
+                "name": "1-up Blast",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 55
+            },
+            "56": {
+                "description": "Complete all Secret Levels",
+                "is_member": 1,
+                "name": "Astro Secret",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 56
+            },
+            "57": {
+                "description": "Complete levels 1-10 without missing a shot ",
+                "is_member": 1,
+                "name": "Astro10 Max",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 57
+            },
+            "58": {
+                "description": "Complete levels 1-20 without missing a shot",
+                "is_member": 1,
+                "name": "Astro20 Max",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 58
+            },
+            "59": {
+                "description": "Complete the Expert Levels",
+                "is_member": 1,
+                "name": "Astro Expert",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 59
+            },
+            "60": {
+                "description": "Complete levels 1-30 without missing a shot",
+                "is_member": 1,
+                "name": "Astro30 Max",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 60
+            },
+            "61": {
+                "description": "Collect 8 1-ups",
+                "is_member": 1,
+                "name": "Astro 1-up",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 61
+            },
+            "62": {
+                "description": "Complete 25 levels + Secret and Expert",
+                "is_member": 1,
+                "name": "Astro Master",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 62
+            }
+        }
+    },
+    "15": {
+        "description": "Stamps related to surfing",
+        "display": "Catchin' Waves",
+        "group_id": 15,
+        "name": "Catchin' Waves",
+        "parent_group_id": 8,
+        "stamps": {
+            "100": {
+                "description": "Finish in 1st, 2nd or 3rd place with your puffle",
+                "is_member": 1,
+                "name": "Podium Puffle",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 100
+            },
+            "101": {
+                "description": "Jump and flip 3 times",
+                "is_member": 0,
+                "name": "Flip Star",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 101
+            },
+            "102": {
+                "description": "Jump the height of 8 penguins",
+                "is_member": 0,
+                "name": "Easy Jump",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 102
+            },
+            "103": {
+                "description": "Hit 1000 point combo while shooting the tube",
+                "is_member": 0,
+                "name": "Super Tube",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 103
+            },
+            "104": {
+                "description": "Perform a 3 spin jump",
+                "is_member": 0,
+                "name": "Easy Spin",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 104
+            },
+            "105": {
+                "description": "Perform a 7 spin jump",
+                "is_member": 0,
+                "name": "Super Spin",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 105
+            },
+            "106": {
+                "description": "Hit 700 point combo while grinding the wave",
+                "is_member": 0,
+                "name": "Super Grind",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 106
+            },
+            "107": {
+                "description": "Hit 1200 point combo while grinding the wave",
+                "is_member": 1,
+                "name": "Max Grind",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 107
+            },
+            "108": {
+                "description": "Win first place in a competition",
+                "is_member": 1,
+                "name": "First Place",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 108
+            },
+            "109": {
+                "description": "Flip 10 times",
+                "is_member": 1,
+                "name": "Max Flips",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 109
+            },
+            "110": {
+                "description": "Jump the height of 20 penguins",
+                "is_member": 1,
+                "name": "High Jump",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 110
+            },
+            "111": {
+                "description": "Hit 5000 point combo while shooting the tube",
+                "is_member": 0,
+                "name": "Max Tube",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 111
+            },
+            "112": {
+                "description": "Do a 10 spin jump",
+                "is_member": 0,
+                "name": "Max Spin",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 112
+            },
+            "113": {
+                "description": "Spot the shark",
+                "is_member": 1,
+                "name": "Shark!",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 113
+            },
+            "114": {
+                "description": "Complete Survival Mode",
+                "is_member": 1,
+                "name": "Survivor",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 114
+            },
+            "93": {
+                "description": "Master your first trick on the board",
+                "is_member": 0,
+                "name": "First Trick",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 93
+            },
+            "94": {
+                "description": "Take your red puffle for a surf lesson",
+                "is_member": 0,
+                "name": "Puffle Surfin'",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 94
+            },
+            "95": {
+                "description": "Perform 1 flip",
+                "is_member": 0,
+                "name": "Easy Flip",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 95
+            },
+            "96": {
+                "description": "Hit 100 point combo while shooting the tube",
+                "is_member": 0,
+                "name": "Easy Tube",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 96
+            },
+            "97": {
+                "description": "Hit 100 point combo while grinding the wave",
+                "is_member": 0,
+                "name": "Easy Grind",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 97
+            },
+            "98": {
+                "description": "Finish the surf lesson",
+                "is_member": 0,
+                "name": "Graduate",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 98
+            },
+            "99": {
+                "description": "Master 13 different tricks in a surf",
+                "is_member": 0,
+                "name": "Trick Star",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 99
+            }
+        }
+    },
+    "16": {
+        "description": "Don't fall through!",
+        "display": "Thin Ice",
+        "group_id": 16,
+        "name": "Thin Ice",
+        "parent_group_id": 8,
+        "stamps": {
+            "63": {
+                "description": "Collect 1 coin bag",
+                "is_member": 0,
+                "name": "1 Coin Bag",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 63
+            },
+            "64": {
+                "description": "Collect 3 coin bags",
+                "is_member": 0,
+                "name": "3 Coin Bags",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 64
+            },
+            "65": {
+                "description": "Collect 6 coin bags",
+                "is_member": 0,
+                "name": "6 Coin Bags",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 65
+            },
+            "66": {
+                "description": "Find the hidden treasure room",
+                "is_member": 1,
+                "name": "Iced Treasure",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 66
+            },
+            "67": {
+                "description": "Collect 10 coin bags",
+                "is_member": 1,
+                "name": "10 Coin Bags",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 67
+            },
+            "68": {
+                "description": "Completely melt 480 ice tiles",
+                "is_member": 0,
+                "name": "Ice Bonus",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 68
+            },
+            "69": {
+                "description": "Push all blocks to the correct position",
+                "is_member": 1,
+                "name": "Ice Trekker",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 69
+            },
+            "70": {
+                "description": "Collect all coin bags on every level",
+                "is_member": 1,
+                "name": "All Coin Bags",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 70
+            },
+            "71": {
+                "description": "Master all the mazes",
+                "is_member": 1,
+                "name": "Ice Master",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 71
+            }
+        }
+    },
+    "19": {
+        "description": "Puffle Rescue Stamps",
+        "display": "Puffle Rescue",
+        "group_id": 19,
+        "name": "Puffle Rescue",
+        "parent_group_id": 8,
+        "stamps": {
+            "130": {
+                "description": "Rescue 30 puffles in snow levels",
+                "is_member": 0,
+                "name": "SOS 30",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 130
+            },
+            "131": {
+                "description": "Rescue 60 Puffles in snow levels",
+                "is_member": 0,
+                "name": "SOS 60",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 131
+            },
+            "132": {
+                "description": "Find 1 coin bag in the snow levels",
+                "is_member": 0,
+                "name": "1 Coin Bag",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 132
+            },
+            "133": {
+                "description": "Find 2 coin bags in the snow levels",
+                "is_member": 0,
+                "name": "2 Coin Bags ",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 133
+            },
+            "134": {
+                "description": "Find 3 coin bags in the snow levels",
+                "is_member": 0,
+                "name": "3 Coin Bags",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 134
+            },
+            "135": {
+                "description": "Complete 3 snow levels in no more than 70 moves",
+                "is_member": 0,
+                "name": "Snow Student",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 135
+            },
+            "136": {
+                "description": "Complete 6 snow levels in no more than 160 moves",
+                "is_member": 0,
+                "name": "Snow Master",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 136
+            },
+            "137": {
+                "description": "Complete 9 snow levels in no more than 270 moves",
+                "is_member": 0,
+                "name": "Snow Hero",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 137
+            },
+            "138": {
+                "description": "Find hidden coins on level 1 in the caves",
+                "is_member": 1,
+                "name": "Cave Coins",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 138
+            },
+            "139": {
+                "description": "Find hidden coins on level 4 in the caves",
+                "is_member": 1,
+                "name": "Cave Coins Plus",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 139
+            },
+            "140": {
+                "description": "Find hidden coins on Level 7 in the caves",
+                "is_member": 1,
+                "name": "Cave Coins Max",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 140
+            },
+            "141": {
+                "description": "Catch 1 coin bag before it falls",
+                "is_member": 1,
+                "name": "Quick Catch",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 141
+            },
+            "142": {
+                "description": "Catch 2 coin bags before they fall",
+                "is_member": 1,
+                "name": "Super Catch",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 142
+            },
+            "144": {
+                "description": "Catch 3 coin bags before they fall",
+                "is_member": 1,
+                "name": "Expert Catch",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 144
+            },
+            "145": {
+                "description": "Destroy 8 snowball cannons in cave levels",
+                "is_member": 1,
+                "name": "Easy Cannon",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 145
+            },
+            "146": {
+                "description": "Destroy 12 snowball cannons in cave levels",
+                "is_member": 1,
+                "name": "Super Cannon",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 146
+            },
+            "147": {
+                "description": "Destroy 15 snowball cannons in cave levels",
+                "is_member": 1,
+                "name": "Extreme Cannon",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 147
+            },
+            "148": {
+                "description": "Dodge the giant snowball",
+                "is_member": 1,
+                "name": "Close Call",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 148
+            },
+            "149": {
+                "description": "Complete 5 sea levels in 30 seconds each",
+                "is_member": 1,
+                "name": "Rapid Rescue",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 149
+            },
+            "150": {
+                "description": "Complete 10 sea levels in 30 seconds each",
+                "is_member": 1,
+                "name": "Express Rescue",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 150
+            },
+            "151": {
+                "description": "Complete 20 sea levels in 30 seconds each",
+                "is_member": 1,
+                "name": "Extreme Rescue",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 151
+            },
+            "152": {
+                "description": "Reach 10 sea levels with 5 full lives",
+                "is_member": 1,
+                "name": "10 Sea Levels",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 152
+            },
+            "153": {
+                "description": "Reach 20 sea levels with 5 full lives",
+                "is_member": 1,
+                "name": "20 Sea Levels",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 153
+            },
+            "154": {
+                "description": "Reach 30 sea levels with 5 full lives",
+                "is_member": 1,
+                "name": "30 Sea Levels",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 154
+            },
+            "155": {
+                "description": "Find 1 coin bag in a bubble in the sea levels",
+                "is_member": 1,
+                "name": "1 Coin Bubble",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 155
+            },
+            "156": {
+                "description": "Find 2 coin bags in a bubble in the sea levels",
+                "is_member": 1,
+                "name": "2 Coin Bubbles",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 156
+            },
+            "157": {
+                "description": "Find 3 coin bags in a bubble in the sea levels",
+                "is_member": 1,
+                "name": "3 Coin Bubbles",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 157
+            }
+        }
+    },
+    "22": {
+        "description": "PSA Missions 1 to 11",
+        "display": "Missions",
+        "group_id": 22,
+        "name": "Missions",
+        "parent_group_id": 8,
+        "stamps": {
+            "159": {
+                "description": "Complete Case of the Missing Puffles",
+                "is_member": 0,
+                "name": "Mission 1 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 159
+            },
+            "160": {
+                "description": "Complete the secret task in Mission 1",
+                "is_member": 0,
+                "name": "Aunt Arctic Letter",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 160
+            },
+            "161": {
+                "description": "Complete G's Secret Mission",
+                "is_member": 0,
+                "name": "Mission 2 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 161
+            },
+            "162": {
+                "description": "Complete the secret task in Mission 2",
+                "is_member": 0,
+                "name": "G's Letter",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 162
+            },
+            "163": {
+                "description": "Complete Case of the Missing Coins",
+                "is_member": 0,
+                "name": "Mission 3 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 163
+            },
+            "164": {
+                "description": "Complete the secret task in Mission 3",
+                "is_member": 0,
+                "name": "Thank You Card",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 164
+            },
+            "165": {
+                "description": "Complete Avalanche Rescue",
+                "is_member": 0,
+                "name": "Mission 4 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 165
+            },
+            "166": {
+                "description": "Complete the secret task in Mission 4",
+                "is_member": 0,
+                "name": "Handy Award",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 166
+            },
+            "167": {
+                "description": "Complete Secret of the Fur",
+                "is_member": 0,
+                "name": "Mission 5 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 167
+            },
+            "168": {
+                "description": "Complete the secret task in Mission 5",
+                "is_member": 0,
+                "name": "Pizza Box",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 168
+            },
+            "169": {
+                "description": "Complete Questions for a Crab",
+                "is_member": 0,
+                "name": "Mission 6 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 169
+            },
+            "170": {
+                "description": "Complete the secret task in Mission 6",
+                "is_member": 0,
+                "name": "Blueprint",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 170
+            },
+            "171": {
+                "description": "Complete Clockwork Repairs",
+                "is_member": 0,
+                "name": "Mission 7 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 171
+            },
+            "172": {
+                "description": "Complete the secret task in Mission 7",
+                "is_member": 0,
+                "name": "Pennant",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 172
+            },
+            "173": {
+                "description": "Complete Mysterious Tremors",
+                "is_member": 0,
+                "name": "Mission 8 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 173
+            },
+            "174": {
+                "description": "Complete the secret task in Mission 8",
+                "is_member": 0,
+                "name": "Cool Gift",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 174
+            },
+            "175": {
+                "description": "Complete Operation: Spy and Seek",
+                "is_member": 0,
+                "name": "Mission 9 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 175
+            },
+            "176": {
+                "description": "Complete the secret task in Mission 9",
+                "is_member": 0,
+                "name": "Chocolate Box",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 176
+            },
+            "177": {
+                "description": "Complete Waddle Squad",
+                "is_member": 0,
+                "name": "Mission 10 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 177
+            },
+            "178": {
+                "description": "Complete the secret task in Mission 10",
+                "is_member": 0,
+                "name": "Employee Award",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 178
+            },
+            "179": {
+                "description": "Complete The Veggie Villain",
+                "is_member": 0,
+                "name": "Mission 11 Medal",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 179
+            },
+            "180": {
+                "description": "Complete the secret task in Mission 11",
+                "is_member": 0,
+                "name": "Snow Globe",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 180
+            }
+        }
+    },
+    "23": {
+        "description": "Party Stamps",
+        "display": "Party",
+        "group_id": 23,
+        "name": "Party",
+        "parent_group_id": 5,
+        "stamps": {
+            "182": {
+                "description": "Make 10 penguins smile in a room",
+                "is_member": 0,
+                "name": "Happy Room",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 182
+            },
+            "183": {
+                "description": "Solve a puzzle at a party",
+                "is_member": 0,
+                "name": "Party Puzzle",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 183
+            },
+            "184": {
+                "description": "Serve snacks from a booth, using any food emote",
+                "is_member": 0,
+                "name": "Snack Shack",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 184
+            },
+            "185": {
+                "description": "Hit 50 targets in a task at a party",
+                "is_member": 0,
+                "name": "Target Champion",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 185
+            },
+            "186": {
+                "description": "Blow out the candles on the Anniversary Cake",
+                "is_member": 0,
+                "name": "Celebration",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 186
+            },
+            "187": {
+                "description": "Wear a monster outfit at the Halloween Party",
+                "is_member": 0,
+                "name": "Monster Mash",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 187
+            },
+            "188": {
+                "description": "Complete a Scavenger Hunt",
+                "is_member": 0,
+                "name": "Scavenger Hunt",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 188
+            },
+            "189": {
+                "description": "Join in construction at a party with your jackhammer",
+                "is_member": 0,
+                "name": "Construction",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 189
+            },
+            "190": {
+                "description": "Visit all the decorated party rooms",
+                "is_member": 1,
+                "name": "Explorer",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 190
+            },
+            "191": {
+                "description": "Donate to a Coins For Change cause",
+                "is_member": 0,
+                "name": "Volunteer",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 191
+            },
+            "193": {
+                "description": "Complete a maze at a party",
+                "is_member": 0,
+                "name": "Path Finder",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 193
+            },
+            "292": {
+                "description": "Sail away from the island in a boat",
+                "is_member": 0,
+                "name": "Out At Sea",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 292
+            },
+            "294": {
+                "description": "Give a 5000 coin donation to Coins For Change",
+                "is_member": 0,
+                "name": "Top Volunteer",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 294
+            },
+            "296": {
+                "description": "Give a 10,000 coin donation to Coins For Change.",
+                "is_member": 0,
+                "name": "Epic Volunteer",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 296
+            },
+            "330": {
+                "description": "Walk your puffle to their party room",
+                "is_member": 0,
+                "name": "Party Puffle",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 330
+            },
+            "332": {
+                "description": "Throw your meal in a place where food is found",
+                "is_member": 0,
+                "name": "Food Fight",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 332
+            },
+            "360": {
+                "description": "Wear a knight costume at the Medieval party",
+                "is_member": 1,
+                "name": "Noble Knight",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 360
+            },
+            "362": {
+                "description": "Recycle 10 objects at the Recycling Plant",
+                "is_member": 0,
+                "name": "Go Green",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 362
+            },
+            "364": {
+                "description": "Get 10 or more friends to dress up as trees",
+                "is_member": 0,
+                "name": "Tree Mob",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 364
+            },
+            "426": {
+                "description": "Solve a musical puzzle at a party.",
+                "is_member": 0,
+                "name": "Music Maestro ",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 426
+            },
+            "438": {
+                "description": "Complete an obstacle course",
+                "is_member": 0,
+                "name": "Stunt Penguin",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 438
+            },
+            "439": {
+                "description": "Reach a mountain peak",
+                "is_member": 0,
+                "name": "Mountaineer",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 439
+            },
+            "440": {
+                "description": "Do a snowboard dance at a party",
+                "is_member": 1,
+                "name": "Snowboarder",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 440
+            },
+            "444": {
+                "description": "See 10 Trick-or-Treat igloos at the Halloween Party",
+                "is_member": 0,
+                "name": "Trick-or-treat",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 444
+            },
+            "503": {
+                "description": "Attended a live concert during a party",
+                "is_member": 0,
+                "name": "Ultimate Fan",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 503
+            },
+            "505": {
+                "description": "Completed an Operation",
+                "is_member": 0,
+                "name": "Elite Operative",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 505
+            }
+        }
+    },
+    "25": {
+        "description": "Video Game Stamps",
+        "display": "Video Games",
+        "group_id": 25,
+        "name": "Video Games",
+        "parent_group_id": 0,
+        "stamps": {}
+    },
+    "26": {
+        "description": "Wii Game 'Game Day'",
+        "display": "Video Game Day",
+        "group_id": 26,
+        "name": "Game Day",
+        "parent_group_id": 25,
+        "stamps": {
+            "115": {
+                "description": "Conquer the island as Team Red",
+                "is_member": 0,
+                "name": "Red Win",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 115
+            },
+            "116": {
+                "description": "Conquer the island as Team Blue",
+                "is_member": 0,
+                "name": "Blue Win",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 116
+            },
+            "117": {
+                "description": "Conquer the island as Team Green",
+                "is_member": 0,
+                "name": "Green Win",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 117
+            },
+            "118": {
+                "description": "Conquer the island as Team Yellow",
+                "is_member": 0,
+                "name": "Yellow Win",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 118
+            },
+            "119": {
+                "description": "Conquer the island as each team",
+                "is_member": 0,
+                "name": "Conquer the Island",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 119
+            },
+            "120": {
+                "description": "Collect all the items",
+                "is_member": 0,
+                "name": "Collector",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 120
+            },
+            "121": {
+                "description": "Upload another penguin to your Wii remote",
+                "is_member": 0,
+                "name": "Remote Upload",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 121
+            },
+            "122": {
+                "description": "Win a 4-player game without being knocked out",
+                "is_member": 0,
+                "name": "Sumo Smash",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 122
+            },
+            "123": {
+                "description": "Play 4-player mode without dropping any puffles",
+                "is_member": 0,
+                "name": "Puffle Paddle",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 123
+            },
+            "124": {
+                "description": "Balance 30 bags in a 4-player game",
+                "is_member": 0,
+                "name": "Bean Balance",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 124
+            },
+            "125": {
+                "description": "Come 1st in all 2 vs. 2 matches",
+                "is_member": 0,
+                "name": "2 Vs. 2",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 125
+            },
+            "126": {
+                "description": "Win all 2 vs. 2 matches against the Wii at hard level",
+                "is_member": 0,
+                "name": "2 Vs. 2 Max",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 126
+            },
+            "127": {
+                "description": "Feed a white puffle in Feed a Puffle",
+                "is_member": 0,
+                "name": "White Puffle",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 127
+            },
+            "128": {
+                "description": "Win a game without letting a puck in your net",
+                "is_member": 0,
+                "name": "Goalie",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 128
+            }
+        }
+    },
+    "28": {
+        "description": "Cart Surfer Stamps",
+        "display": "Cart Surfer",
+        "group_id": 28,
+        "name": "Cart Surfer",
+        "parent_group_id": 8,
+        "stamps": {
+            "206": {
+                "description": "Earn 150 coins in one game",
+                "is_member": 0,
+                "name": "Cart Pro",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 206
+            },
+            "208": {
+                "description": "Earn 250 coins in one game",
+                "is_member": 0,
+                "name": "Cart Expert",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 208
+            },
+            "210": {
+                "description": "Earn 350 coins in one game",
+                "is_member": 0,
+                "name": "Cart Master",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 210
+            },
+            "212": {
+                "description": "Recover from a wobble",
+                "is_member": 0,
+                "name": "Great Balance",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 212
+            },
+            "214": {
+                "description": "Perform 10 tricks in the cart",
+                "is_member": 0,
+                "name": "Mine Marvel",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 214
+            },
+            "216": {
+                "description": "Perform 10 tricks out of the cart",
+                "is_member": 0,
+                "name": "Mine Mission",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 216
+            },
+            "218": {
+                "description": "Perform 14 different tricks",
+                "is_member": 0,
+                "name": "Trick Master",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 218
+            },
+            "220": {
+                "description": "Grind around 8 corners",
+                "is_member": 0,
+                "name": "Mine Grind",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 220
+            },
+            "222": {
+                "description": "Surf around 8 corners",
+                "is_member": 0,
+                "name": "Surf's Up",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 222
+            },
+            "224": {
+                "description": "Flip 20 times in a row without crashing",
+                "is_member": 0,
+                "name": "Flip Mania",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 224
+            },
+            "226": {
+                "description": "Perform 20 tricks with your puffle",
+                "is_member": 0,
+                "name": "Ultimate Duo",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 226
+            },
+            "228": {
+                "description": "Recover from a wobble with a puffle",
+                "is_member": 0,
+                "name": "Puffle Power",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 228
+            }
+        }
+    },
+    "32": {
+        "description": "Card-Jitsu Fire",
+        "display": "Card-Jitsu : Fire",
+        "group_id": 32,
+        "name": "Card-Jitsu : Fire",
+        "parent_group_id": 8,
+        "stamps": {
+            "252": {
+                "description": "Win 10 Fire matches",
+                "is_member": 0,
+                "name": "Warm Up",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 252
+            },
+            "254": {
+                "description": "Win 1 energy point in a match",
+                "is_member": 0,
+                "name": "Score Fire ",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 254
+            },
+            "256": {
+                "description": "Earn the coat. Finish 50% of your Fire Ninja journey",
+                "is_member": 0,
+                "name": "Fire Midway",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 256
+            },
+            "260": {
+                "description": "Win a match without losing any energy",
+                "is_member": 0,
+                "name": "Strong Defence",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 260
+            },
+            "262": {
+                "description": "Complete your Fire Suit",
+                "is_member": 0,
+                "name": "Fire Suit",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 262
+            },
+            "264": {
+                "description": "Defeat Sensei and become a Fire Ninja",
+                "is_member": 0,
+                "name": "Fire Ninja",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 264
+            },
+            "266": {
+                "description": "Win 3 energy points in a match",
+                "is_member": 0,
+                "name": "Max Energy",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 266
+            },
+            "268": {
+                "description": "Win 50 matches",
+                "is_member": 0,
+                "name": "Fire Expert ",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 268
+            }
+        }
+    },
+    "34": {
+        "description": "Card-Jitsu Water",
+        "display": "Card-Jitsu : Water",
+        "group_id": 34,
+        "name": "Card-Jitsu : Water",
+        "parent_group_id": 8,
+        "stamps": {
+            "270": {
+                "description": "Win a match and sound the gong",
+                "is_member": 0,
+                "name": "Gong!",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 270
+            },
+            "274": {
+                "description": "Take the plunge! Fall off the Waterfall",
+                "is_member": 0,
+                "name": "Watery Fall",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 274
+            },
+            "276": {
+                "description": "Win 100 matches",
+                "is_member": 0,
+                "name": "Water Expert",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 276
+            },
+            "278": {
+                "description": "Earn the coat. Finish 50% of your Water Ninja journey",
+                "is_member": 0,
+                "name": "Water Midway",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 278
+            },
+            "282": {
+                "description": "Complete your Water Suit",
+                "is_member": 0,
+                "name": "Water Suit",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 282
+            },
+            "284": {
+                "description": "Defeat Sensei and become a Water Ninja",
+                "is_member": 0,
+                "name": "Water Ninja",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 284
+            },
+            "286": {
+                "description": "Drift to the edge twice and still win the match",
+                "is_member": 0,
+                "name": "Two Close",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 286
+            },
+            "288": {
+                "description": "Clear 28 stones of any element in a match",
+                "is_member": 0,
+                "name": "Skipping Stones",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 288
+            }
+        }
+    },
+    "38": {
+        "description": "Card-Jitsu Original",
+        "display": "Card-Jitsu",
+        "group_id": 38,
+        "name": "Card-Jitsu",
+        "parent_group_id": 8,
+        "stamps": {
+            "230": {
+                "description": "Begin your journey. Earn your white belt",
+                "is_member": 0,
+                "name": "Grasshopper",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 230
+            },
+            "232": {
+                "description": "Reach half way. Earn your blue belt",
+                "is_member": 0,
+                "name": "Fine Student ",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 232
+            },
+            "234": {
+                "description": "Prove your ninja skills. Earn your black belt",
+                "is_member": 0,
+                "name": "True Ninja ",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 234
+            },
+            "236": {
+                "description": "Defeat Sensei and become a Ninja",
+                "is_member": 0,
+                "name": "Ninja Master ",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 236
+            },
+            "238": {
+                "description": "Win without letting your opponent gain any cards",
+                "is_member": 0,
+                "name": "Flawless Victory ",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 238
+            },
+            "240": {
+                "description": "Win 25 matches",
+                "is_member": 0,
+                "name": "Match Master",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 240
+            },
+            "242": {
+                "description": "Win a match with 3 different elements",
+                "is_member": 0,
+                "name": "Elemental Win",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 242
+            },
+            "244": {
+                "description": "Win a match with 3 cards of the same element",
+                "is_member": 0,
+                "name": "One Element ",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 244
+            },
+            "246": {
+                "description": "See the Sensei Power Card",
+                "is_member": 0,
+                "name": "Sensei Card",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 246
+            },
+            "248": {
+                "description": "Score 9 cards before you win",
+                "is_member": 0,
+                "name": "Full Dojo",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 248
+            }
+        }
+    },
+    "46": {
+        "description": "System Defender",
+        "display": "System Defender",
+        "group_id": 46,
+        "name": "System Defender",
+        "parent_group_id": 8,
+        "stamps": {
+            "298": {
+                "description": "Finish G's tutorial",
+                "is_member": 0,
+                "name": "Ready For Duty",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 298
+            },
+            "300": {
+                "description": "Destroy 100 enemies in 1 level",
+                "is_member": 0,
+                "name": "Garbage Disposal",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 300
+            },
+            "302": {
+                "description": "Destroy 100 enemies without upgrading cannons",
+                "is_member": 0,
+                "name": "Strategic Success",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 302
+            },
+            "304": {
+                "description": "Complete a game with only one type of cannon",
+                "is_member": 0,
+                "name": "Mono Mechanic",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 304
+            },
+            "306": {
+                "description": "Destroy 100 enemies without taking damage",
+                "is_member": 0,
+                "name": "Tactical Pro",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 306
+            },
+            "308": {
+                "description": "Fill every open socket with a cannon",
+                "is_member": 0,
+                "name": "Master Mechanic",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 308
+            },
+            "310": {
+                "description": "Destroy 250 enemies without upgrading",
+                "is_member": 0,
+                "name": "Strategic Master",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 310
+            },
+            "312": {
+                "description": "Destroy 250 enemies without taking damage",
+                "is_member": 0,
+                "name": "Tactical Ace",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 312
+            },
+            "320": {
+                "description": "Protect the EPF mainframe from rogue bugs",
+                "is_member": 0,
+                "name": "Bug Overload",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 320
+            },
+            "322": {
+                "description": "Complete the level 'Herbert Attacks'",
+                "is_member": 0,
+                "name": "Herbert Attacks",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 322
+            },
+            "324": {
+                "description": "Protect the EPF mainframe from Klutzy",
+                "is_member": 0,
+                "name": "Klutzy Attack",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 324
+            },
+            "326": {
+                "description": "Protect the EPF mainframe from the Test Bots",
+                "is_member": 1,
+                "name": "Test Bot Trio",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 326
+            },
+            "328": {
+                "description": "Protect the EPF mainframe from Ultimate Protobot",
+                "is_member": 1,
+                "name": "Protobot Attack",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 328
+            },
+            "443": {
+                "description": "Complete the level 'Track Herbert'",
+                "is_member": 0,
+                "name": "Track Herbert ",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 443
+            }
+        }
+    },
+    "48": {
+        "description": "Puffle Launch",
+        "display": "Puffle Launch",
+        "group_id": 48,
+        "name": "Puffle Launch",
+        "parent_group_id": 8,
+        "stamps": {
+            "334": {
+                "description": "Collect your first cannon piece",
+                "is_member": 0,
+                "name": "Begin Build",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 334
+            },
+            "336": {
+                "description": "Build a cannon",
+                "is_member": 0,
+                "name": "Launch Ready",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 336
+            },
+            "338": {
+                "description": "Build the Epic Cannon",
+                "is_member": 1,
+                "name": "Epic Cannon ",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 338
+            },
+            "340": {
+                "description": "Defeat a crab boss once",
+                "is_member": 0,
+                "name": "Crab Attack",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 340
+            },
+            "342": {
+                "description": "Defeat 3 crab bosses in a single play session",
+                "is_member": 1,
+                "name": "Crab Crash",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 342
+            },
+            "344": {
+                "description": "Defeat 6 crab bosses in a single play session",
+                "is_member": 1,
+                "name": "Crab Battle",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 344
+            },
+            "346": {
+                "description": "Complete all 36 levels in under 35 minutes",
+                "is_member": 1,
+                "name": "Quick Launch",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 346
+            },
+            "348": {
+                "description": "Complete all 36 levels in under 25 minutes",
+                "is_member": 1,
+                "name": "Supersonic Launch",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 348
+            },
+            "350": {
+                "description": "Complete all 36 levels in under 18 minutes",
+                "is_member": 1,
+                "name": "Light Speed Launch",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 350
+            },
+            "352": {
+                "description": "Complete a level in turbo mode",
+                "is_member": 1,
+                "name": "Turbo Time",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 352
+            },
+            "354": {
+                "description": "Defeat the crab in turbo mode",
+                "is_member": 1,
+                "name": "Turbo Battle",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 354
+            },
+            "356": {
+                "description": "Complete all 36 levels in turbo mode",
+                "is_member": 1,
+                "name": "Turbo Master",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 356
+            }
+        }
+    },
+    "5": {
+        "description": "Events",
+        "display": "Events",
+        "group_id": 5,
+        "name": "Events",
+        "parent_group_id": 0,
+        "stamps": {}
+    },
+    "52": {
+        "description": "Ice Fishing",
+        "display": "Ice Fishing",
+        "group_id": 52,
+        "name": "Ice Fishing",
+        "parent_group_id": 8,
+        "stamps": {
+            "372": {
+                "description": "Feed a fish to a shark",
+                "is_member": 0,
+                "name": "Snack Attack",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 372
+            },
+            "374": {
+                "description": "Get 3 shocks from jellyfish and finish the game",
+                "is_member": 0,
+                "name": "Shock King",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 374
+            },
+            "376": {
+                "description": "Catch 15 fish without any mistakes",
+                "is_member": 0,
+                "name": "Fishtastic",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 376
+            },
+            "378": {
+                "description": "Finish the game without losing a worm",
+                "is_member": 0,
+                "name": "Worm Win",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 378
+            },
+            "380": {
+                "description": "Have 3 crabs cut your line and finish the game",
+                "is_member": 0,
+                "name": "Crab Cuts",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 380
+            },
+            "382": {
+                "description": "Catch 45 fish without any mistakes",
+                "is_member": 0,
+                "name": "Afishionado",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 382
+            },
+            "384": {
+                "description": "Catch 15 gray fish",
+                "is_member": 1,
+                "name": "Gray Goodies",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 384
+            },
+            "386": {
+                "description": "Capture Mullet",
+                "is_member": 0,
+                "name": "Prize Mullet",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 386
+            },
+            "388": {
+                "description": "Catch 63 fish in under 5 minutes",
+                "is_member": 0,
+                "name": "Fly Fisher",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 388
+            },
+            "390": {
+                "description": "Hook 15 gray fish and Mullet with no worm lost",
+                "is_member": 1,
+                "name": "Ace Angler",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 390
+            }
+        }
+    },
+    "54": {
+        "description": "Pizzatron Stamps",
+        "display": "Pizzatron 3000",
+        "group_id": 54,
+        "name": "Pizzatron 3000",
+        "parent_group_id": 8,
+        "stamps": {
+            "392": {
+                "description": "Make a mess of the kitchen with 3 wrong pizzas",
+                "is_member": 0,
+                "name": "Food Fiasco",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 392
+            },
+            "394": {
+                "description": "Play Pizzatron in Candy Mode",
+                "is_member": 0,
+                "name": "Just Dessert",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 394
+            },
+            "396": {
+                "description": "Make 20 pizzas without any mistakes",
+                "is_member": 0,
+                "name": "Chef's Hat",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 396
+            },
+            "398": {
+                "description": "Make 3 hot sauce and shrimp pizzas to order",
+                "is_member": 0,
+                "name": "Spice Sea",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 398
+            },
+            "400": {
+                "description": "Make 3 jellybean and chocolate pizzas to order",
+                "is_member": 0,
+                "name": "Cocoa Beans",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 400
+            },
+            "402": {
+                "description": "Make 3 hot sauce and squid pizzas to order",
+                "is_member": 0,
+                "name": "Fiery Squids",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 402
+            },
+            "404": {
+                "description": "Make 3 pink sauce and marshmallow pizzas to order",
+                "is_member": 0,
+                "name": "Candy Land",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 404
+            },
+            "406": {
+                "description": "Make 30 pizzas without any mistakes",
+                "is_member": 0,
+                "name": "Pizza Chef",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 406
+            },
+            "408": {
+                "description": "Make 40 pizzas without any mistakes",
+                "is_member": 0,
+                "name": "Pizza Master",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 408
+            },
+            "410": {
+                "description": "Make 40 candy pizzas without any mistakes",
+                "is_member": 0,
+                "name": "Dessert Chef",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 410
+            }
+        }
+    },
+    "56": {
+        "description": "Treasure Hunt Stamps",
+        "display": "Treasure Hunt",
+        "group_id": 56,
+        "name": "Treasure Hunt",
+        "parent_group_id": 8,
+        "stamps": {
+            "414": {
+                "description": "Uncover 2 gems in a single game",
+                "is_member": 0,
+                "name": "Gem Skills",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 414
+            },
+            "416": {
+                "description": "Collect 8 coins in a single game",
+                "is_member": 0,
+                "name": "Collector",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 416
+            },
+            "418": {
+                "description": "Find a rare treasure",
+                "is_member": 0,
+                "name": "In the Rough",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 418
+            },
+            "420": {
+                "description": "Uncover a gem in only 3 moves",
+                "is_member": 0,
+                "name": "Gem Expert",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 420
+            },
+            "422": {
+                "description": "Uncover 2 gems in only 7 moves",
+                "is_member": 0,
+                "name": "Gem Pro",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 422
+            }
+        }
+    },
+    "57": {
+        "description": "Pufflescape",
+        "display": "Pufflescape",
+        "group_id": 57,
+        "name": "Pufflescape",
+        "parent_group_id": 8,
+        "stamps": {
+            "427": {
+                "description": "Eat a bonus Puffle O",
+                "is_member": 0,
+                "name": "Bonus Snack",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 427
+            },
+            "428": {
+                "description": "Eat all regular Puffle O's in one set of levels",
+                "is_member": 0,
+                "name": "Puffle O Feast",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 428
+            },
+            "429": {
+                "description": "Eat a disappearing Puffle O",
+                "is_member": 0,
+                "name": "Bite in Time",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 429
+            },
+            "430": {
+                "description": "Eat all disappearing O's in one level",
+                "is_member": 0,
+                "name": "Quick Snack",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 430
+            },
+            "431": {
+                "description": "Eat all disappearing O's in one set of levels",
+                "is_member": 0,
+                "name": "Fast Food",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 431
+            },
+            "432": {
+                "description": "Complete level 4",
+                "is_member": 0,
+                "name": "On a Roll",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 432
+            },
+            "433": {
+                "description": "Complete level 8",
+                "is_member": 0,
+                "name": "Puzzle Pro",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 433
+            },
+            "434": {
+                "description": "Complete level 12",
+                "is_member": 1,
+                "name": "Extreme Puzzler",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 434
+            },
+            "435": {
+                "description": "Complete level 17",
+                "is_member": 1,
+                "name": "Master Roller",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 435
+            },
+            "436": {
+                "description": "Complete level 22",
+                "is_member": 1,
+                "name": "Epic Roller",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 436
+            },
+            "437": {
+                "description": "Complete the final level",
+                "is_member": 1,
+                "name": "Ice Master",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 437
+            }
+        }
+    },
+    "58": {
+        "description": "Smoothie Smash",
+        "display": "Smoothie Smash",
+        "group_id": 58,
+        "name": "Smoothie Smash",
+        "parent_group_id": 8,
+        "stamps": {
+            "450": {
+                "description": "Complete 5 recipes in one game",
+                "is_member": 0,
+                "name": "Fruit Squeeze",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 450
+            },
+            "451": {
+                "description": "Serve Rockhopper",
+                "is_member": 0,
+                "name": "Shipshake",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 451
+            },
+            "452": {
+                "description": "Serve Aunt Arctic",
+                "is_member": 0,
+                "name": "Berry Smart",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 452
+            },
+            "453": {
+                "description": "Serve Herbert",
+                "is_member": 0,
+                "name": "Beary Berry",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 453
+            },
+            "454": {
+                "description": "Complete 10 recipes in one game",
+                "is_member": 0,
+                "name": "Tasty Treat",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 454
+            },
+            "455": {
+                "description": "Smash 10 correct fruit in a row",
+                "is_member": 0,
+                "name": "Fruit Splatter",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 455
+            },
+            "456": {
+                "description": "Last 2 minutes in survival mode",
+                "is_member": 0,
+                "name": "Fruit Power",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 456
+            },
+            "457": {
+                "description": "Take no damage for 2 mins in survival mode",
+                "is_member": 0,
+                "name": "Deflector",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 457
+            },
+            "458": {
+                "description": "Complete 20 recipes in one game",
+                "is_member": 0,
+                "name": "Energizer",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 458
+            },
+            "459": {
+                "description": "Smash 20 correct fruit in a row",
+                "is_member": 0,
+                "name": "Fruit Stomper",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 459
+            },
+            "460": {
+                "description": "Last 4 minutes in survival mode",
+                "is_member": 0,
+                "name": "Smoothie Warrior",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 460
+            },
+            "461": {
+                "description": "Take no damage for 3 mins in survival mode",
+                "is_member": 0,
+                "name": "Smoothie Survivor ",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 461
+            },
+            "462": {
+                "description": "Complete 30 recipes in one game",
+                "is_member": 0,
+                "name": "Smoothie Zing",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 462
+            },
+            "463": {
+                "description": "Smash 50 correct fruit in a row",
+                "is_member": 0,
+                "name": "Fruit Smasher",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 463
+            },
+            "464": {
+                "description": "Last 8 minutes in survival mode",
+                "is_member": 0,
+                "name": "Smoothie Master",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 464
+            },
+            "465": {
+                "description": "Take no damage for 4 mins in survival mode",
+                "is_member": 0,
+                "name": "Smoothie Hero",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 465
+            }
+        }
+    },
+    "6": {
+        "description": "Characters",
+        "display": "Characters",
+        "group_id": 6,
+        "name": "Characters",
+        "parent_group_id": 5,
+        "stamps": {
+            "290": {
+                "description": "Be in the same room as Sensei",
+                "is_member": 0,
+                "name": "Sensei",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 290
+            },
+            "31": {
+                "description": "Be in the same room as Cadence",
+                "is_member": 0,
+                "name": "Cadence ",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 31
+            },
+            "32": {
+                "description": "Be in the same room as Franky",
+                "is_member": 0,
+                "name": "Franky",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 32
+            },
+            "33": {
+                "description": "Be in the same room as Aunt Arctic",
+                "is_member": 0,
+                "name": "Aunt Arctic",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 33
+            },
+            "34": {
+                "description": "Be in the same room as G Billy",
+                "is_member": 0,
+                "name": "G Billy",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 34
+            },
+            "35": {
+                "description": "Be in the same room as Petey K",
+                "is_member": 0,
+                "name": "Petey K",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 35
+            },
+            "358": {
+                "description": "Be in the same room as Rookie",
+                "is_member": 0,
+                "name": "Rookie",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 358
+            },
+            "36": {
+                "description": "Be in the same room as Stompin' Bob",
+                "is_member": 0,
+                "name": "Stompin' Bob",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 36
+            },
+            "448": {
+                "description": "Be in the same room as PH",
+                "is_member": 0,
+                "name": "PH",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 448
+            },
+            "466": {
+                "description": "Be in the same room as Herbert.",
+                "is_member": 0,
+                "name": "Herbert",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 466
+            },
+            "7": {
+                "description": "Be in the same room as Rockhopper",
+                "is_member": 0,
+                "name": "Rockhopper ",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 7
+            },
+            "8": {
+                "description": "Be in the same room as Gary the Gadget Guy",
+                "is_member": 0,
+                "name": "Gary",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 8
+            },
+            "500": {
+                "description": "Be in the same room as Rory the Construction Worker",
+                "is_member": 0,
+                "name": "Rory",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 500
+            },
+            "501": {
+                "description": "Be in the same room as Tourdude",
+                "is_member": 0,
+                "type": 2,
+                "name": "Tourdude",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 501
+            },
+            "502": {
+                "description": "Be in the same room as Jet Pack Guy",
+                "is_member": 0,
+                "name": "Jet Pack Guy",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 502
+            },
+            "504": {
+                "description": "Be in the same room as Dot",
+                "is_member": 0,
+                "name": "Dot",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 504
+            },
+            "506": {
+                "description": "Be in the same room as Klutzy",
+                "is_member": 0,
+                "name": "Klutzy",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 506
+            }
+        }
+    },
+    "60": {
+        "description": "Card-Jitsu Snow",
+        "display": "Card-Jitsu : Snow",
+        "group_id": 60,
+        "name": "Card-Jitsu : Snow",
+        "parent_group_id": 8,
+        "stamps": {
+            "467": {
+                "description": "Play a Power Card in the same turn as all ninjas",
+                "is_member": 0,
+                "name": "3 Ninja Combo",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 467
+            },
+            "468": {
+                "description": "Play a Power Card in the same turn as all ninjas & Sensei",
+                "is_member": 0,
+                "name": "4 Ninja Combo",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 468
+            },
+            "469": {
+                "description": "Win 3 Rounds as a Snow Ninja",
+                "is_member": 0,
+                "name": "Snow Ninja",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 469
+            },
+            "470": {
+                "description": "Win 3 Rounds as a Fire Ninja",
+                "is_member": 0,
+                "name": "Fire Ninja",
+                "rank": 0,
+                "rank_token": "none specified",
+                "stamp_id": 470
+            },
+            "471": {
+                "description": "Win 3 Rounds as a Water Ninja",
+                "is_member": 0,
+                "name": "Water Ninja",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 471
+            },
+            "472": {
+                "description": "Reach a Full Health Bonus Round",
+                "is_member": 0,
+                "name": "Full Health",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 472
+            },
+            "473": {
+                "description": "Defeat all Snow Minions in a Bonus Round",
+                "is_member": 0,
+                "name": "Bonus Win",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 473
+            },
+            "474": {
+                "description": "Revive a ninja",
+                "is_member": 0,
+                "name": "Revive",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 474
+            },
+            "475": {
+                "description": "Get revived and still win the battle",
+                "is_member": 0,
+                "name": "Up and at 'em",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 475
+            },
+            "476": {
+                "description": "Win after all ninjas have fallen and been revived",
+                "is_member": 0,
+                "name": "Team Revival",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 476
+            },
+            "477": {
+                "description": "Heal a ninja 15 times in a battle",
+                "is_member": 0,
+                "name": "Heal 15",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 477
+            },
+            "478": {
+                "description": "Heal all ninjas with 1 Snow Power Card",
+                "is_member": 0,
+                "name": "Huge Heal",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 478
+            },
+            "479": {
+                "description": "Shield other ninjas in a Snow Power Card Combo",
+                "is_member": 0,
+                "name": "Snow Shield",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 479
+            },
+            "480": {
+                "description": "Damage 3 Snow Minions with 1 Water Power Card",
+                "is_member": 0,
+                "name": "Tidal Wave",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 480
+            },
+            "481": {
+                "description": "Boost all ninja attacks in a Water Power Card Combo",
+                "is_member": 0,
+                "name": "Wave Boost",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 481
+            },
+            "482": {
+                "description": "Blast 3 Snow Minions with 1 Fire Power Card",
+                "is_member": 0,
+                "name": "Fire Blast",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 482
+            },
+            "483": {
+                "description": "Blast 3 Snow Minions with 1 Fire Power Card in a Combo",
+                "is_member": 0,
+                "name": "Fire Blast Combo",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 483
+            },
+            "484": {
+                "description": "Play 3 Power Cards in a battle",
+                "is_member": 0,
+                "name": "Power Card Pro",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 484
+            },
+            "485": {
+                "description": "Play 3 Power Card Combos in a battle",
+                "is_member": 0,
+                "name": "3 Combos",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 485
+            },
+            "486": {
+                "description": "Defeat the master of Snow",
+                "is_member": 0,
+                "name": "Final Battle",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 486
+            },
+            "487": {
+                "description": "Earn the gem. Finish over half of your Snow journey.",
+                "is_member": 0,
+                "name": "Snow Pro",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 487
+            }
+        }
+    },
+    "10": {
+        "description": "Parent group only",
+        "display": "Island Life",
+        "group_id": 10,
+        "name": "Island Life",
+        "parent_group_id": 0,
+        "stamps": {}
+    },
+    "7": {
+        "description": "Doing things in-game",
+        "display": "Activities",
+        "group_id": 7,
+        "name": "Activities",
+        "parent_group_id": 10,
+        "stamps": {
+            "10": {
+                "description": "Find the secret entrance to the underground",
+                "is_member": 0,
+                "name": "Underground",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 10
+            },
+            "11": {
+                "description": "Use a camera on top of the Ski Hill",
+                "is_member": 0,
+                "name": "Snapshot",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 11
+            },
+            "12": {
+                "description": "Swim in water with a rubber duck",
+                "is_member": 0,
+                "name": "Go Swimming",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 12
+            },
+            "13": {
+                "description": "Hit the Clock target 10 times in a row",
+                "is_member": 0,
+                "name": "Clock Target",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 13
+            },
+            "14": {
+                "description": "Log in with a penguin 183 days old or older",
+                "is_member": 0,
+                "name": "183 days! ",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 14
+            },
+            "15": {
+                "description": "Waddle around 30 rooms",
+                "is_member": 0,
+                "name": "Going Places",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 15
+            },
+            "16": {
+                "description": "Party in the Night Club with 10 penguins",
+                "is_member": 0,
+                "name": "Dance Party",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 16
+            },
+            "17": {
+                "description": "Throw a party for 10 penguins in your igloo.",
+                "is_member": 0,
+                "name": "Igloo Party",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 17
+            },
+            "18": {
+                "description": "Serve 5 coffees, using the apron and emote",
+                "is_member": 0,
+                "name": "Coffee Server",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 18
+            },
+            "19": {
+                "description": "Serve 5 pizzas, using the apron and emote",
+                "is_member": 0,
+                "name": "Pizza Waiter",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 19
+            },
+            "197": {
+                "description": "Earn 1 EPF medal",
+                "is_member": 0,
+                "name": "Field Agent",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 197
+            },
+            "198": {
+                "description": "Earn 5 EPF medals",
+                "is_member": 0,
+                "name": "Special Agent",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 198
+            },
+            "199": {
+                "description": "Earn 10 EPF medals",
+                "is_member": 0,
+                "name": "Special Forces",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 199
+            },
+            "20": {
+                "description": "Log in with a penguin 365 days old or older",
+                "is_member": 0,
+                "name": "365 days!",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 20
+            },
+            "200": {
+                "description": "Earn 25 EPF medals",
+                "is_member": 0,
+                "name": "Elite Protector",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 200
+            },
+            "201": {
+                "description": "Earn 50 EPF medals",
+                "is_member": 0,
+                "name": "Island Guardian",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 201
+            },
+            "21": {
+                "description": "Adopt and care for 16 puffles",
+                "is_member": 0,
+                "name": "Puffle Owner",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 21
+            },
+            "22": {
+                "description": "Dance in the Night Club with 25 penguins",
+                "is_member": 0,
+                "name": "Floor Filler",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 22
+            },
+            "23": {
+                "description": "Fill your igloo with 99 furniture items",
+                "is_member": 1,
+                "name": "Full House",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 23
+            },
+            "24": {
+                "description": "Form a full band at the Lighthouse",
+                "is_member": 0,
+                "name": "Play It Loud! ",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 24
+            },
+            "25": {
+                "description": "Form a team with 5 penguins in the same jersey",
+                "is_member": 0,
+                "name": "Soccer Team ",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 25
+            },
+            "26": {
+                "description": "Dance with 30 penguins wearing hard hats at the Berg",
+                "is_member": 0,
+                "name": "Berg Drill!",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 26
+            },
+            "27": {
+                "description": "Throw snow at the Forts with 5 penguins of the same color",
+                "is_member": 0,
+                "name": "Fort Battle",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 27
+            },
+            "28": {
+                "description": "Throw a party for 30 penguins in your igloo.",
+                "is_member": 0,
+                "name": "Party Host ",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 28
+            },
+            "29": {
+                "description": "Form a team with 5 penguins in the same jersey",
+                "is_member": 0,
+                "name": "Hockey Team",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 29
+            },
+            "30": {
+                "description": "Meet 10 black belts in the Dojo",
+                "is_member": 0,
+                "name": "Ninja Meeting",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 30
+            },
+            "488": {
+                "description": "Earn the Fire, Water, and Snow Gems",
+                "is_member": 0,
+                "name": "3 Gems",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 488
+            },
+            "489": {
+                "description": "Walk a puffle and find treasure",
+                "is_member": 0,
+                "name": "Puffle Dig",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 489
+            },
+            "490": {
+                "description": "See another player's puffle find their first treasure",
+                "is_member": 0,
+                "name": "First Dig",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 490
+            },
+            "491": {
+                "description": "Dig up treasure with 11 different color puffles",
+                "is_member": 0,
+                "name": "Every Color",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 491
+            },
+            "492": {
+                "description": "Find puffle treasure 5 times in a day",
+                "is_member": 0,
+                "name": "Dig All Day",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 492
+            },
+            "493": {
+                "description": "Find over 50 coins in a puffle dig",
+                "is_member": 0,
+                "name": "Big Dig",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 493
+            },
+            "494": {
+                "description": "Find an item in a puffle treasure dig",
+                "is_member": 1,
+                "name": "Treasure Box",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 494
+            },
+            "495": {
+                "description": "Find your puffle's favorite food in a treasure dig",
+                "is_member": 1,
+                "name": "Tasty Treasure",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 495
+            },
+            "9": {
+                "description": "Operate the Switchbox 3000",
+                "is_member": 0,
+                "name": "Stage Crew",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 9
+            },
+            "496": {
+                "description": "Form a team of 5 penguins wearing matching baseball kits",
+                "is_member": 0,
+                "name": "Play Ball",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 496
+            },
+            "497": {
+                "description": "Stand on the pitchers' mound with someone near home plate",
+                "is_member": 0,
+                "name": "Batter Up",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 497
+            },
+            "498": {
+                "description": "Start at home plate and touch every base back to home",
+                "is_member": 0,
+                "name": "Homerun",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 498
+            },
+            "700": {
+                "description": "Become a Tour Guide",
+                "is_member": 1,
+                "name": "Big Brain Moment",
+                "rank": 1,
+                "rank_token": "medium",
+                "stamp_id": 700
+            }
+        }
+    },
+    "12": {
+        "description": "Doing jobs in-game",
+        "display": "Penguins at Work",
+        "group_id": 12,
+        "name": "Penguins at Work",
+        "parent_group_id": 10,
+        "stamps": {
+            "701": {
+                "description": "Serve pizza to 5 penguins in one session",
+                "is_member": 0,
+                "name": "Pizza Time",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 701
+            },
+            "702": {
+                "description": "Serve pizza to 20 penguins in one session",
+                "is_member": 0,
+                "name": "Pizza the Profits",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 702
+            },
+            "703": {
+                "description": "Serve pizza to 50 penguins in one session",
+                "is_member": 0,
+                "name": "Rolling in Dough",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 703
+            },
+            "704": {
+                "description": "Serve coffee to 5 penguins in one session",
+                "is_member": 0,
+                "name": "Morning Rush",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 704
+            },
+            "705": {
+                "description": "Serve coffee to 20 penguins in one session",
+                "is_member": 0,
+                "name": "Daily Grind",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 705
+            },
+            "706": {
+                "description": "Serve coffee to 50 penguins in one session",
+                "is_member": 0,
+                "name": "Java Genius",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 706
+            },
+            "707": {
+                "description": "Mine 500 coins at the Iceberg in one session",
+                "is_member": 0,
+                "name": "Breaking the Ice",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 707
+            },
+            "708": {
+                "description":"Mine 1000 coins at the Iceberg in one session",
+                "is_member": 0,
+                "name": "Can I Get a Tip?",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 708
+            },
+            "709": {
+                "description": "Mine 2000 coins at the Iceberg in one session",
+                "is_member": 0,
+                "name": "Big Berg Money",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 709
+            },
+            "710": {
+                "description": "Wear the wrong apron at a food place",
+                "is_member": 0,
+                "name": "Wrong Order",
+                "rank": 1,
+                "rank_token": "easy",
+                "stamp_id": 710
+            },
+            "711": {
+                "description": "Show up to eat at 2 different food places",
+                "is_member": 0,
+                "name": "Full Course",
+                "rank": 2,
+                "rank_token": "medium",
+                "stamp_id": 711
+            },
+            "712": {
+                "description": "Earn more than 500 coins in 3 different jobs in one session",
+                "is_member": 0,
+                "name": "All the Work Hours",
+                "rank": 3,
+                "rank_token": "hard",
+                "stamp_id": 712
+            },
+            "713": {
+                "description": "Have 5 customers smile when receiving their order in a session",
+                "is_member": 0,
+                "name": "Happy Customers",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 713
+            }
+        }
+    },
+    "8": {
+        "description": "Parent group only",
+        "display": "Games",
+        "group_id": 8,
+        "name": "Games",
+        "parent_group_id": 0,
+        "stamps": {}
+    },
+    "9": {
+        "description": "Finding secret items",
+        "display": "Secrets",
+        "group_id": 9,
+        "name": "Secrets",
+        "parent_group_id": 0,
+        "stamps": {
+            "600": {
+                "description": "Find the Solid Gold Viking Helmet",
+                "is_member": 0,
+                "name": "Golden Viking",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 600
+            },
+            "601": {
+                "description": "Find the Gold Bunny Slippers",
+                "is_member": 0,
+                "name": "Golden Slippers",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 601
+            },
+            "602": {
+                "description": "Find the Goldstache",
+                "is_member": 0,
+                "name": "Goldstache",
+                "rank": 4,
+                "rank_token": "extreme",
+                "stamp_id": 602
+            }
+        }
+    }
+}

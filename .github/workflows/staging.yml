@@ -1,0 +1,100 @@
+name: Server CI (Staging)
+
+on:
+    push:
+        branches: [staging]
+    
+jobs:
+    server-ci:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v2
+
+            - uses: actions/setup-node@v2
+              with:
+                  node-version: '16'
+
+            - name: Checkout repository and submodules
+              uses: actions/checkout@v2
+              with:
+                  token: ${{ secrets.MEDIAKEY }}
+                  submodules: recursive
+
+            - name: Installing
+              run: npm install
+
+            - name: Build
+              run: npm run build
+
+            - name: Push server code to remote
+              uses: burnett01/rsync-deployments@5.2.1
+              with:
+                switches: -avzr --delete
+                path: ./dist
+                remote_path: server/
+                remote_host: ${{ secrets.HOST_STAGING }}
+                remote_port: ${{ secrets.PORT }}
+                remote_user: ${{ secrets.USERNAME }} 
+                remote_key: ${{ secrets.SSHKEY }}
+                
+            - name: Push crumbs to remote
+              uses: burnett01/rsync-deployments@5.2.1
+              with:
+                switches: -avzr --delete
+                path: ./data
+                remote_path: server/
+                remote_host: ${{ secrets.HOST_STAGING }}
+                remote_port: ${{ secrets.PORT }}
+                remote_user: ${{ secrets.USERNAME }} 
+                remote_key: ${{ secrets.SSHKEY }}
+
+            - name: Push package to remote
+              uses: burnett01/rsync-deployments@5.2.1
+              with:
+                switches: -avzr --delete
+                path: ./package.json
+                remote_path: server/
+                remote_host: ${{ secrets.HOST_STAGING }}
+                remote_port: ${{ secrets.PORT }}
+                remote_user: ${{ secrets.USERNAME }} 
+                remote_key: ${{ secrets.SSHKEY }}
+
+            - name: Push package lock to remote
+              uses: burnett01/rsync-deployments@5.2.1
+              with:
+                switches: -avzr --delete
+                path: ./package-lock.json
+                remote_path: server/
+                remote_host: ${{ secrets.HOST_STAGING }}
+                remote_port: ${{ secrets.PORT }}
+                remote_user: ${{ secrets.USERNAME }} 
+                remote_key: ${{ secrets.SSHKEY }}
+
+            - name: Restart Server Step 1 - npm update (Optional)
+              uses: appleboy/ssh-action@v0.1.6
+              with:
+                host: ${{ secrets.HOST_STAGING }}
+                username: ${{ secrets.USERNAME }}
+                password: ${{ secrets.PASSWORD }}
+                key: ${{ secrets.SSHKEY }}
+                port: ${{ secrets.PORT }}
+                script: |
+                  cd server
+                  sudo su -c bash <<< 'export NVM_DIR="$HOME/.nvm" && [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" && npm ci '
+              if: ${{ contains(github.event.head_commit.message, 'update') }}
+            
+            - name: Restart Server Step 1 - Stop Server (Optional)
+              uses: appleboy/ssh-action@v0.1.6
+              with:
+                host: ${{ secrets.HOST_STAGING }}
+                username: ${{ secrets.USERNAME }}
+                password: ${{ secrets.PASSWORD }}
+                key: ${{ secrets.SSHKEY }}
+                port: ${{ secrets.PORT }}
+                script: |
+                  cd server
+                  sudo su -c bash <<< 'export NVM_DIR="$HOME/.nvm" && [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" && npm run restart '
+              if: ${{ contains(github.event.head_commit.message, 'restart') }}
+

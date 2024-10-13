@@ -1,0 +1,56 @@
+{
+	"1": {
+		"name": "April Fools' 2024",
+		"current": false,
+		"prize": {
+			"type": "item",
+			"id": 380370
+		},
+		"stamps": [190, 183, 193, 332]
+	},
+	"2": {
+		"name": "Medieval Party 2024",
+		"current": false,
+		"prize": {
+			"type": "item",
+			"id": 380441
+		},
+		"stamps": [190, 183, 185, 193]
+	},
+	"3": {
+		"name": "Water Party 2024",
+		"no_quests": true,
+		"current": false,
+		"stamps": [190]
+	},
+	"4": {
+		"name": "Music Jam 2024",
+		"current": false,
+		"prize": {
+			"type": "item",
+			"id": 380501
+		},
+		"stamps": [184, 190, 503]
+	},
+	"5": {
+		"name": "Camp Penguin 2024",
+		"no_quests": true,
+		"current": false,
+		"stamps": [190, 332]
+	},
+	"6": {
+		"name": "Operation Veggie Vilian",
+		"no_quests": true,
+		"current": false,
+		"stamps": [183, 188, 189, 190, 193, 332, 505]
+	},
+	"7": {
+		"name": "The Fair 2024",
+		"current": true,
+		"prize": {
+			"type": "item",
+			"id": 380629
+		},
+		"stamps": [184, 185, 190]
+	}
+}

@@ -1,0 +1,1537 @@
+{
+  "0": {
+    "name": "No Music",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1": {
+    "name": "King of Kingston",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "2": {
+    "name": "Dance Mix 1",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "3": {
+    "name": "I've Been Delayed",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "5": {
+    "name": "Dance Mix 2",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "7": {
+    "name": "Stealth",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "10": {
+    "name": "Sunshine Holiday",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1718388000
+  },
+  "11": {
+    "name": "Honolulu Honey",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1718388000
+  },
+  "12": {
+    "name": "Jazzy Plaza",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 0
+  },
+  "13": {
+    "name": "Herbert Sneak",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1724443200
+  },
+  "19": {
+    "name": "Nothing As It Seems",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "20": {
+    "name": "Charlie's Here",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "21": {
+    "name": "Dojo",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "24": {
+    "name": "The Way of Sensei",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 0
+  },
+  "30": {
+    "name": "Space Adventure",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 0
+  },
+  "31": {
+    "name": "Twelfth Fish Theme",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "32": {
+    "name": "For Great Justice",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "33": {
+    "name": "Pep Rally",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 0
+  },
+  "34": {
+    "name": "Egyptian Wrap",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 0
+  },
+  "35": {
+    "name": "Pterodactyl Ptune",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "37": {
+    "name": "Noir Noises",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "38": {
+    "name": "Planet Y",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 0
+  },
+  "39": {
+    "name": "Twice Upon a Time",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "41": {
+    "name": "Viking Opera",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "42": {
+    "name": "Norman Swarm",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 0
+  },
+  "43": {
+    "name": "The Bamboo Forest",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 0
+  },
+  "101": {
+    "name": "Bean Counters",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "102": {
+    "name": "Puffle Roundup",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "103": {
+    "name": "Ice Fishing",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "105": {
+    "name": "Cart Surfer",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "111": {
+    "name": "Thin Ice",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "113": {
+    "name": "Catchin' Waves Theme",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "114": {
+    "name": "Clam Waters",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "115": {
+    "name": "Soda Seas",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "116": {
+    "name": "Ninja Training",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "117": {
+    "name": "Sled Racing",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "119": {
+    "name": "Puffle Rescue: Ice Flow",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "120": {
+    "name": "Puffle Rescue: In the Cave",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "121": {
+    "name": "Puffle Rescue: Underwater",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "200": {
+    "name": "Jingle Bells",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "201": {
+    "name": "Sparky's New Bike",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "204": {
+    "name": "Guadeloupe Beach",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1718388000
+  },
+  "206": {
+    "name": "Spanish Rumba",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1708732800
+  },
+  "207": {
+    "name": "Rainy Day Ska",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "208": {
+    "name": "Dance Ye Merry",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "209": {
+    "name": "Folk Guitar",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "210": {
+    "name": "Driving Guitar",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "211": {
+    "name": "Lazy Jazz",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "212": {
+    "name": "Ocean Voyage",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "213": {
+    "name": "Event Prep",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "214": {
+    "name": "Cool Surf",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "216": {
+    "name": "Summer Song",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1718388000
+  },
+  "217": {
+    "name": "Water Kongo",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1718388000
+  },
+  "218": {
+    "name": "Ska Mad",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1718388000
+  },
+  "219": {
+    "name": "Campy's Camp",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1722891600
+  },
+  "220": {
+    "name": "Campfire",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1722891600
+  },
+  "221": {
+    "name": "All the Fun of The Fair",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "222": {
+    "name": "Carnival Fun",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1724443200
+  },
+  "223": {
+    "name": "Haunted Disco",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "224": {
+    "name": "Discoween",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "226": {
+    "name": "DJ Christmas",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "227": {
+    "name": "Snowy Holiday",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "229": {
+    "name": "Spicy Salsa",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1708732800
+  },
+  "230": {
+    "name": "Air Bubble Boogie",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "232": {
+    "name": "Silly to Funky",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "233": {
+    "name": "Medieval Town",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "235": {
+    "name": "In the Tower",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "236": {
+    "name": "Epic Battle!",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "240": {
+    "name": "Let the Games Begin",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "241": {
+    "name": "Generic Way",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "242": {
+    "name": "Mix Maestro",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "243": {
+    "name": "Pop Song",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "244": {
+    "name": "Flipper Stomper",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "245": {
+    "name": "Orca Straw",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "246": {
+    "name": "Go West",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "247": {
+    "name": "Musical Icicles",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "249": {
+    "name": "Epic Win!",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1708732800
+  },
+  "254": {
+    "name": "Santa's Mix",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "255": {
+    "name": "Christmas Piano Melody",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "256": {
+    "name": "Icy Serenade",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "258": {
+    "name": "Penguin Band Boogie",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "259": {
+    "name": "Puffle Party",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "261": {
+    "name": "Puffle Ragtime",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "263": {
+    "name": "Flipper Jig",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "264": {
+    "name": "Box Dimension",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1711994400
+  },
+  "265": {
+    "name": "Walk Among the Roses",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "267": {
+    "name": "Jungle Jangles",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "270": {
+    "name": "Extra Anchovies",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "271": {
+    "name": "Rocking Pizza",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "272": {
+    "name": "All-Access Pass",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "273": {
+    "name": "All The Way Home",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "275": {
+    "name": "Keytar Jam",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "276": {
+    "name": "Rocksteady",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "278": {
+    "name": "Cumulonimbus",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "279": {
+    "name": "Zero Gravity",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "283": {
+    "name": "Anchovy Jazz",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "284": {
+    "name": "Recycle!",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "286": {
+    "name": "Beware the Dragon",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "291": {
+    "name": "Island Adventure",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "292": {
+    "name": "Casa Fiesta",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "294": {
+    "name": "Ice Cavern",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "296": {
+    "name": "You Rock!",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "297": {
+    "name": "The Ringmaster",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "298": {
+    "name": "Monster Masquerade",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "305": {
+    "name": "Brown Puffle Lab",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "311": {
+    "name": "Bumper Cars",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "321": {
+    "name": "Superstar",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "400": {
+    "name": "Christmas Jammin'",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "401": {
+    "name": "Beach Mix",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "510": {
+    "name": "Ghosts Just Wanna Dance",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "536": {
+    "name": "Cool in the Cold",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "593": {
+    "name": "Into Orbit",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "594": {
+    "name": "Martian Landing",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "595": {
+    "name": "Desert Roads",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "596": {
+    "name": "Bull's Eye",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "597": {
+    "name": "Marooned Lagoon",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "598": {
+    "name": "Carnival Fun",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "599": {
+    "name": "The Viking Opera",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "681": {
+    "name": "Welcome to the Future",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "717": {
+    "name": "Best Day Ever",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "780": {
+    "name": "Spooky Jazz",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "852": {
+    "name": "Music Jamming",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "912": {
+    "name": "Distant Clouds Serenity",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "916": {
+    "name": "Anchors Aweigh",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "921": {
+    "name": "Private Eye",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "958": {
+    "name": "November in Okinawa",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "959": {
+    "name": "Ninja Headquarters",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "960": {
+    "name": "Dojo Remix",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "961": {
+    "name": "Eraser",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "962": {
+    "name": "Spooky Scary Skeletons",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "963": {
+    "name": "Paparazzi Shuffle",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 0
+  },
+  "964": {
+    "name": "Pirates and Monkeys",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "965": {
+    "name": "Jungle Crab",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "966": {
+    "name": "Jungle Dance",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "967": {
+    "name": "Jungle Snake",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "968": {
+    "name": "Into the Jungle",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "969": {
+    "name": "Cannon Fire",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "970": {
+    "name": "A Pirate's Life",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1710604800
+  },
+  "971": {
+    "name": "Trouble with Treasure",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1710604800
+  },
+  "972": {
+    "name": "Treetop Treasures",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "973": {
+    "name": "Paddy's Dance",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "974": {
+    "name": "Rainbow Road",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "975": {
+    "name": "Rainbow Migration",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1709924400
+  },
+  "976": {
+    "name": "The Plundering Pirate",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1710604800
+  },
+  "977": {
+    "name": "Swashbuckler's Jig",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1710604800
+  },
+  "978": {
+    "name": "Alehouse",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1710604800
+  },
+  "979": {
+    "name": "X Marks the Spot",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1710604800
+  },
+  "980": {
+    "name": "Adventure Awaits Upon the Waters",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1710604800
+  },
+  "981": {
+    "name": "Mystery Awaits Upon the Waters",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1710604800
+  },
+  "982": {
+    "name": "April Fools",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1711994400
+  },
+  "983": {
+    "name": "8-Bit Dance",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1711994400
+  },
+  "984": {
+    "name": "Lost Stairway",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1711994400
+  },
+  "985": {
+    "name": "The Quest",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "986": {
+    "name": "Dragon Ahead",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "987": {
+    "name": "A Hero is Born",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "988": {
+    "name": "Path of the Hydra",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "989": {
+    "name": "Hydra Suspense",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "990": {
+    "name": "A Time for Heroes",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "991": {
+    "name": "Become a Hero",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "992": {
+    "name": "Medieval Times",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "993": {
+    "name": "Wizard Waltz",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1720658974
+  },
+  "994": {
+    "name": "The Adventurer",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1715968800
+  },
+  "995": {
+    "name": "Wizard Waddle",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1715968800
+  },
+  "996": {
+    "name": "Nyan Cat",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "997": {
+    "name": "Rainbow Puffle Remix",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1
+  },
+  "998": {
+    "name": "Hard Rock",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "999": {
+    "name": "Synthwave Maestro",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1711994400
+  },
+  "1000": {
+    "name": "Questions, Questions",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1715968800
+  },
+  "1001": {
+    "name": "Perilous Pathway",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1715968800
+  },
+  "1002": {
+    "name": "Battle of the Elements",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1715968800
+  },
+  "1003": {
+    "name": "Rest Fair Knight",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1715968800
+  },
+  "1004": {
+    "name": "Princess Paradise",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1715968800
+  },
+  "1005": {
+    "name": "Royal Fanfare",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1715968800
+  },
+  "1006": {
+    "name": "Birthday - Penguin Chat 3",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0,
+    "timeAdded": 1715364000
+  },
+  "1007": {
+    "name": "Fruit Frenzy",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1718388000
+  },
+  "1008": {
+    "name": "Smoothie Smash",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1718388000
+  },
+  "1009": {
+    "name": "Coconut",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1718388000
+  },
+  "1010": {
+    "name": "Mine Shack",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1718388000
+  },
+  "1100": {
+    "name": "Gadget Room (Remix)",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1712003400
+  },
+  "1101": {
+    "name": "Windy Hideout",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1712003400
+  },
+  "1102": {
+    "name": "Toon Town Tune",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1712003400
+  },
+  "1103": {
+    "name": "Chiptune Town",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1712003400
+  },
+  "1104": {
+    "name": "Coffee Al Fresco",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1712003400
+  },
+  "1105": {
+    "name": "Cube Lullaby",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1712003400
+  },
+  "1106": {
+    "name": "Dojo Rune",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1712003400
+  },
+  "1107": {
+    "name": "f00liSH aPRiL",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1712003400
+  },
+  "1108": {
+    "name": "Welcome Medley",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0,
+    "timeAdded": 1712610000
+  },
+  "1109": {
+    "name": "Take Me Out to the Ballgame",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0,
+    "timeAdded": 1713549600
+  },
+  "1110": {
+    "name": "Goes Around",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "1111": {
+    "name": "It's A Beautiful Life",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "1112": {
+    "name": "Margherita",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "1113": {
+    "name": "Mulletwave",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "1114": {
+    "name": "Music Marmalade",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "1115": {
+    "name": "For You and I",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1721847600
+  },
+  "1116": {
+    "name": "Here's Charlie",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1117": {
+    "name": "Thin Iced Latte",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1118": {
+    "name": "Sail Me to the Iceberg",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1119": {
+    "name": "Jetpack Jazz",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1120": {
+    "name": "Smells Like Penguin Spirit",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1121": {
+    "name": "Fish Rock",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1122": {
+    "name": "Welcome to the Black Belt",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1123": {
+    "name": "Pineapple Time",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1124": {
+    "name": "Beach Breeze",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1125": {
+    "name": "Flower",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1126": {
+    "name": "Head Up",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1127": {
+    "name": "Ballin'",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1128": {
+    "name": "Ocean Ripple",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1129": {
+    "name": "Smooth Gears",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1130": {
+    "name": "Sunset Memories",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1131": {
+    "name": "ST4RLUV",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1132": {
+    "name": "STRAWBERRii",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1133": {
+    "name": "Perfect Day",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1134": {
+    "name": "The Party Starts Now",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1135": {
+    "name": "Gonna Be Epic!",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1136": {
+    "name": "Camp Penguin Song",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1722891600
+  },
+  "1137": {
+    "name": "Migration",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1722891600
+  },
+  "1138": {
+    "name": "Snowy Smores",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1722891600
+  },
+  "1139": {
+    "name": "Upper Gift Shop",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "1140": {
+    "name": "Corn Rave",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1724443200
+  },
+  "1141": {
+    "name": "Unplugged",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1724443200
+  },
+  "1142": {
+    "name": "Everything Is Fine",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1724443200
+  },
+  "1143": {
+    "name": "Free Popcorn",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1724443200
+  },
+  "1144": {
+    "name": "Burnt Kernels",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1724443200
+  },
+  "1145": {
+    "name": "The Veggie Villain",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 1,
+    "timeAdded": 1724443200
+  },
+  "1146": {
+    "name": "Upper Gift Shop (Remix)",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 0
+  },
+  "1147": {
+    "name": "Kernel",
+    "cost": 100,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1148": {
+    "name": "Buccaneer Boats",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1149": {
+    "name": "Medieval Monsters",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1150": {
+    "name": "Tumbleweed Tanner",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1151": {
+    "name": "FSH N' CHIPS",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1152": {
+    "name": "SQUIDCOASTER!!",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1153": {
+    "name": "WADDLE ON!",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1154": {
+    "name": "Night Club AM Radio Mix",
+    "cost": 100,
+    "store": 1,
+    "seasonal": 1,
+    "timeAdded": 1726855246
+  },
+  "1155": {
+    "name": "Wagon Wheel Rag",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1156": {
+    "name": "Lagooned Maroon",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  },
+  "1157": {
+    "name": "Rockin' Ringmaster",
+    "cost": 0,
+    "store": 0,
+    "seasonal": 0
+  }
+}

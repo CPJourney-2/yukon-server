@@ -1,0 +1,127 @@
+[
+    {
+        "code": "CP18",
+        "expiry": "1698217200",
+        "items": [380130, 380131, 7287]
+    },
+    {
+        "code": "FREEHOOD",
+        "expiry": 0,
+        "items": [14201, 14436]
+    },
+    {
+        "code": "PUMPKIN1",
+        "expiry": "1699686000",
+        "items": [1323, 5081, 380146]
+    },
+    {
+        "code": "OOGABOOGA",
+        "expiry": "1700899200",
+        "items": [380166, 380167]
+    },
+    {
+        "code": "THANKSGIVING",
+        "expiry": "1701072000",
+        "items": [10415]
+    },
+    {
+        "code": "WINTERBUNDLE",
+        "expiry": "1701475140",
+        "items": [380160, 12005, 10213, 380170]
+    },
+    {
+        "code": "MISSION4",
+        "expiry": "1702022400",
+        "items": [380226]
+    },
+    {
+        "code": "GLACIER",
+        "expiry": "1702653600",
+        "items": [7009]
+    },
+    {
+        "code": "HAPPYHOLIDAYS",
+        "expiry": "1703577600",
+        "items": [14147, 14444, 570, 932]
+    },
+    {
+        "code": "NEWYEARS",
+        "expiry": "1704416400",
+        "items": [380263]
+    },
+    {
+        "code": "FIESTA",
+        "expiry": "1705964400",
+        "items": [380288, 380289, 10236, 10764]
+    },
+    {
+        "code": "1STANNIVERSARY",
+        "expiry": "1708084800",
+        "items": [444]
+    },
+    {
+        "code": "DRAGONYEAR",
+        "expiry": "1707685200",
+        "items": [380322, 380323, 380324]
+    },
+    {
+        "code": "FRUITSALAD",
+        "expiry": "1709330400",
+        "items": [380327, 14681, 14682, 380328, 14679, 14680, 14678, 19153]
+    },
+    {
+        "code": "SMOOTHIEDRIP",
+        "expiry": "1709330400",
+        "items": [380326, 14684, 11455, 11456, 14683, 12076]
+    },
+    {
+        "code": "ARIGATOAKIRA",
+        "expiry": "1710194400",
+        "items": [380348, 380349]
+    },
+    {
+        "code": "100KPENGUINS",
+        "expiry": "1712012340",
+        "items": [380361]
+    },
+    {
+        "code": "TREASUREHAT",
+        "expiry": "1712905200",
+        "items": [10473]
+    },
+    {
+        "code": "YOUWILD",
+        "expiry": "1714417200",
+        "items": [4344, 14438, 4345, 4561, 1207]
+    },
+    {
+        "code": "MISSION8",
+        "expiry": "1715983200",
+        "items": [24348]
+    },
+    {
+        "code": "PRIDE",
+        "expiry": 0,
+        "items": [380446, 380447, 380448, 380449, 380450, 380451, 380452, 380453]
+    },
+    {
+        "code": "FROGPARADISE",
+        "expiry": "1718751540",
+        "items": [380495]
+    },
+    {
+        "code": "MUSICJAMMING",
+        "expiry": "1722632400",
+        "items": [10854, 380541, 380542]
+    },
+    {
+        "code": "DISABILITYPRIDE",
+        "expiry": 0,
+        "items": [380544, 380545, 380546, 380548, 380549, 380550, 380551, 380552, 380553, 380554]
+    },
+    {
+        "code": "SNOOPY",
+        "expiry": "1726038000",
+        "items": [380609]
+    }
+]

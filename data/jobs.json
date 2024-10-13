@@ -1,0 +1,18 @@
+{
+    "tour": {
+        "name": "Tour Guide",
+        "rewards": {
+            "coins": 250,
+            "postcard": 172
+        },
+        "required_items": [428]
+    },
+    "agent": {
+        "name": "Agent",
+        "rewards": {
+            "coins": 250,
+            "postcard": 171
+        },
+        "required_items": [800]
+    }
+}
